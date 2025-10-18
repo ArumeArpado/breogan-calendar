@@ -1,0 +1,586 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Río Breogán Season 2025-26//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:Hiopos Lleida - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20251004T210000
+DTEND;TZID=Europe/Madrid:20251004T230000
+DESCRIPTION:Partido fuera de casa.\n\nEl 4 de octubre de 2025\, Hiopos Lle
+ ida venció a Río Breogán por 87-68. Golomán lideró con 16 puntos y 9 
+ rebotes. Breogán tuvo dificultades ofensivas\, con un 32% en tiros de cam
+ po. Cook fue el máximo anotador de Breogán con 18 puntos.\n\nEn los últ
+ imos cinco enfrentamientos\, Lleida ha ganado tres y Breogán dos. El 17 d
+ e marzo de 2024\, Breogán ganó 85-80 en Lugo. Otros resultados incluyen 
+ 94-81 y 91-85 a favor de Lleida. Los partidos han sido de alta intensidad 
+ y con marcadores ajustados.
+LOCATION:Estadio de Hiopos Lleida
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Hiopos Lleida - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Valencia Basket
+DTSTART;TZID=Europe/Madrid:20251012T170000
+DTEND;TZID=Europe/Madrid:20251012T190000
+DESCRIPTION:Partido en casa.\n\nRío Breogán y Valencia Basket han tenido
+  enfrentamientos muy intensos en las últimas temporadas. El 12 de octubre
+  de 2025\, Valencia venció 113-90 en Lugo\, con Jaime Pradilla destacando
+  con 22 puntos. Breogán comenzó fuerte\, pero Valencia remontó con un p
+ arcial de 4-28 liderado por Thompson y Moore.\n\nEn los últimos cinco par
+ tidos\, Valencia ha ganado cuatro y Breogán uno. El 30 de mayo de 2025\, 
+ Valencia ganó 108-61. Otros resultados incluyen 87-75\, 84-70 y una victo
+ ria de Breogán por 76-74. Valencia ha mostrado superioridad ofensiva en l
+ a mayoría de los encuentros.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Valencia Basket
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casademont Zaragoza - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20251018T210000
+DTEND;TZID=Europe/Madrid:20251018T230000
+DESCRIPTION:Partido fuera de casa.\n\nÚltimos 5 enfrentamientos: (Datos c
+ ompletos no disponibles…) Resumen: Río Breogán ganó 2 y perdió 3 (es
+ timación general)
+LOCATION:Estadio de Casademont Zaragoza
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Casademont Zaragoza - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barça - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20251025T190000
+DTEND;TZID=Europe/Madrid:20251025T210000
+DESCRIPTION:Partido fuera de casa.\n\nEl 2 de marzo de 2025\, Barça venci
+ ó a Río Breogán por 102-79 en el Palau Blaugrana. Shermadini y Pradilla
+  fueron claves en la victoria. Breogán tuvo un buen inicio\, pero Barça 
+ dominó desde el segundo cuarto.\n\nEn los últimos cinco enfrentamientos\
+ , Barça ha ganado tres y Breogán dos. El 10 de noviembre de 2024\, Breog
+ án ganó 77-70 en Lugo con Charlie Moore como figura. Otros resultados in
+ cluyen 88-85 y 79-63 a favor de Barça.
+LOCATION:Estadio de Barça
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Barça - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Coviran Granada
+DTSTART;TZID=Europe/Madrid:20251101T210000
+DTEND;TZID=Europe/Madrid:20251101T230000
+DESCRIPTION:Partido en casa.\n\nÚltimos 5 enfrentamientos: (Datos complet
+ os no disponibles…) Resumen: Río Breogán ganó 2 y perdió 3 (estimaci
+ ón general)
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Coviran Granada
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Dreamland Gran Canaria
+DTSTART;TZID=Europe/Madrid:20251108T190000
+DTEND;TZID=Europe/Madrid:20251108T210000
+DESCRIPTION:Partido fuera de casa.\n\nRío Breogán y Dreamland Gran Canar
+ ia han tenido enfrentamientos muy disputados. El 25 de mayo de 2025\, Gran
+  Canaria venció 82-74 en Lugo\, liderado por Caleb Homesley con 19 puntos
+  y 26 de valoración. Breogán luchó con intensidad\, pero un parcial de 
+ 5-24 en el tercer cuarto fue decisivo.\n\nEn los últimos cinco partidos\,
+  Gran Canaria ha ganado cuatro y Breogán uno. El 8 de diciembre de 2024\,
+  Breogán ganó 82-73 en Las Palmas. Otros resultados incluyen 77-70\, 86-
+ 60 y 77-66 a favor de Gran Canaria.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Dreamland Gran Canaria
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCAM Murcia - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20251116T180000
+DTEND;TZID=Europe/Madrid:20251116T200000
+DESCRIPTION:Partido fuera de casa.\n\nEl 22 de marzo de 2025\, UCAM Murcia
+  venció a Breogán 86-70 en Lugo. Dylan Ennis fue la figura del partido c
+ on 28 puntos. Breogán mostró resistencia con Mavra y Grant\, pero no log
+ ró frenar el ataque murciano.\n\nMurcia ha ganado cuatro de los últimos 
+ cinco enfrentamientos. El 16 de noviembre de 2024\, también venció 79-63
+ . Breogán ganó 84-70 en septiembre de 2022. Otros resultados incluyen 65
+ -60 y 83-74 para Murcia.
+LOCATION:Estadio de UCAM Murcia
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: UCAM Murcia - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Recoletas Salud San Pablo Burgos
+DTSTART;TZID=Europe/Madrid:20251122T210000
+DTEND;TZID=Europe/Madrid:20251122T230000
+DESCRIPTION:Partido en casa.\n\nEl 28 de septiembre de 2025\, Breogán ven
+ ció a San Pablo Burgos 94-87 en el trofeo Lugo é Básket. Francis Alonso
+  fue el MVP con 22 puntos. El equipo lucense mostró gran intensidad defen
+ siva y acierto desde el perímetro.\n\nEn los últimos cinco partidos\, Br
+ eogán ha ganado tres y Burgos dos. Destacan los encuentros del 3 de abril
+  de 2022 (Breogán ganó 105-96) y del 12 de marzo de 2022 (Burgos ganó 9
+ 4-86).
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Recoletas Salud San Pab
+ lo Burgos
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bàsquet Girona - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20251206T210000
+DTEND;TZID=Europe/Madrid:20251206T230000
+DESCRIPTION:Partido fuera de casa.\n\nEl 12 de abril de 2025\, Girona venc
+ ió a Breogán 91-85. Pep Busquets fue el máximo anotador con 16 puntos. 
+ Breogán intentó remontar con triples de Grant\, pero un parcial de 11-0 
+ en el último cuarto sentenció el partido.\n\nEn los últimos cinco enfre
+ ntamientos\, Breogán ha ganado tres y Girona dos. El 21 de enero de 2024\
+ , Breogán ganó 93-75. Otros resultados incluyen 87-83 y 92-70.
+LOCATION:Estadio de Bàsquet Girona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Bàsquet Girona - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - La Laguna Tenerife
+DTSTART;TZID=Europe/Madrid:20251213T190000
+DTEND;TZID=Europe/Madrid:20251213T210000
+DESCRIPTION:Partido en casa.\n\nEl 5 de octubre de 2024\, Tenerife venció
+  a Breogán 79-78 en Lugo. Shermadini y Fitipaldo lideraron a los visitant
+ es. Breogán luchó con buenos minutos de Hilliard y Sakho\, pero no logr
+ ó cerrar el partido.\n\nTenerife ha ganado cuatro de los últimos cinco p
+ artidos. Breogán ganó 76-54 en mayo de 2024. Otros resultados incluyen 8
+ 8-81\, 85-67 y 96-78 para Tenerife.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - La Laguna Tenerife
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Surne Bilbao Basket
+DTSTART;TZID=Europe/Madrid:20251221T120000
+DTEND;TZID=Europe/Madrid:20251221T140000
+DESCRIPTION:Partido en casa.\n\nEl 25 de enero de 2025\, Breogán venció 
+ a Bilbao Basket 76-71. Hilliard y Atic fueron claves en el último cuarto.
+  El partido fue muy igualado\, con alternancias en el marcador hasta el fi
+ nal.\n\nEn los últimos cinco partidos\, Breogán ha ganado tres y Bilbao 
+ dos. El 9 de diciembre de 2023\, Breogán ganó 76-68. Otros resultados in
+ cluyen 90-72 y 83-66 para Bilbao.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Surne Bilbao Basket
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joventut Badalona - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20251227T210000
+DTEND;TZID=Europe/Madrid:20251227T230000
+DESCRIPTION:Partido en casa.\n\nEl 26 de abril de 2025\, Joventut venció 
+ a Breogán 82-65 en Lugo. Ante Tomic fue dominante con 16 puntos y 10 rebo
+ tes. Breogán intentó reaccionar con triples de Grant\, pero Joventut man
+ tuvo el control.\n\nEn los últimos cinco partidos\, Joventut ha ganado cu
+ atro y Breogán uno. El 19 de octubre de 2024\, Breogán ganó 76-70 en Ba
+ dalona. Otros resultados incluyen 85-77\, 85-66 y 96-87 para Joventut.
+LOCATION:Estadio de Joventut Badalona
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Joventut Badalona - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Baskonia
+DTSTART;TZID=Europe/Madrid:20251229T200000
+DTEND;TZID=Europe/Madrid:20251229T220000
+DESCRIPTION:Partido en casa.\n\nÚltimos 5 enfrentamientos: (Datos complet
+ os no disponibles…) Resumen: Río Breogán ganó 2 y perdió 3 (estimaci
+ ón general)
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Baskonia
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Unicaja
+DTSTART;TZID=Europe/Madrid:20260103T180000
+DTEND;TZID=Europe/Madrid:20260103T200000
+DESCRIPTION:Partido en casa.\n\nEl 8 de febrero de 2025\, Breogán venció
+  a Unicaja 81-79 en Lugo. Eric Vila fue el héroe con 21 puntos. El partid
+ o fue muy igualado\, con remontada de Breogán en el tercer cuarto.\n\nUni
+ caja ha ganado tres de los últimos cinco partidos. El 28 de diciembre de 
+ 2024\, venció 86-77. Otros resultados incluyen 76-65 y 84-70 para Unicaja
+ .
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Unicaja
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAXI Manresa - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260110T210000
+DTEND;TZID=Europe/Madrid:20260110T230000
+DESCRIPTION:Partido en casa.\n\nEl 2 de enero de 2025\, Manresa venció a 
+ Breogán 88-79 en Lugo. Derrick Alston Jr. y Cameron Hunt lideraron la ofe
+ nsiva visitante. Breogán tuvo buenos minutos de Egbunu y Mavra\, pero no 
+ fue suficiente.\n\nEn los últimos cinco partidos\, Manresa ha ganado cuat
+ ro y Breogán uno. El 3 de mayo de 2025\, Breogán ganó 104-93 en Manresa
+ . Otros resultados incluyen 83-68\, 89-85 y 82-81 para Manresa.
+LOCATION:Estadio de BAXI Manresa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: BAXI Manresa - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MoraBanc Andorra - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260117T190000
+DTEND;TZID=Europe/Madrid:20260117T210000
+DESCRIPTION:Partido en casa.\n\nEl 8 de marzo de 2025\, Breogán venció a
+  Andorra 94-74 en Lugo. Hilliard fue el máximo anotador con 18 puntos. El
+  equipo lucense dominó desde el inicio y mantuvo la ventaja durante todo 
+ el partido.\n\nBreogán ha ganado cuatro de los últimos cinco partidos. E
+ l 4 de enero de 2025\, venció 101-93 en Andorra. Otros resultados incluye
+ n 98-94 y 86-70 para Breogán.
+LOCATION:Estadio de MoraBanc Andorra
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: MoraBanc Andorra - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Real Madrid
+DTSTART;TZID=Europe/Madrid:20260124T190000
+DTEND;TZID=Europe/Madrid:20260124T210000
+DESCRIPTION:Partido en casa.\n\nEl 11 de mayo de 2025\, Real Madrid venci
+ ó a Breogán 79-69 en Lugo. Musa y Tavares fueron determinantes. Breogán
+  mostró resistencia con Vila y Grant\, pero no logró frenar el poder ofe
+ nsivo madridista.\n\nReal Madrid ha ganado los últimos cinco enfrentamien
+ tos. El 15 de diciembre de 2024\, venció 106-69. Otros resultados incluye
+ n 94-80\, 96-87 y 90-87.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Real Madrid
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coviran Granada - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260131T180000
+DTEND;TZID=Europe/Madrid:20260131T200000
+DESCRIPTION:Partido fuera de casa.\n\nÚltimos 5 enfrentamientos: (Datos c
+ ompletos no disponibles…) Resumen: Río Breogán ganó 2 y perdió 3 (es
+ timación general)
+LOCATION:Estadio de Coviran Granada
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Coviran Granada - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - UCAM Murcia
+DTSTART;TZID=Europe/Madrid:20260207T210000
+DTEND;TZID=Europe/Madrid:20260207T230000
+DESCRIPTION:Partido fuera de casa.\n\nEl 22 de marzo de 2025\, UCAM Murcia
+  venció a Breogán 86-70 en Lugo. Dylan Ennis fue la figura del partido c
+ on 28 puntos. Breogán mostró resistencia con Mavra y Grant\, pero no log
+ ró frenar el ataque murciano.\n\nMurcia ha ganado cuatro de los últimos 
+ cinco enfrentamientos. El 16 de noviembre de 2024\, también venció 79-63
+ . Breogán ganó 84-70 en septiembre de 2022. Otros resultados incluyen 65
+ -60 y 83-74 para Murcia.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - UCAM Murcia
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Laguna Tenerife - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260214T200000
+DTEND;TZID=Europe/Madrid:20260214T220000
+DESCRIPTION:Partido en casa.\n\nEl 5 de octubre de 2024\, Tenerife venció
+  a Breogán 79-78 en Lugo. Shermadini y Fitipaldo lideraron a los visitant
+ es. Breogán luchó con buenos minutos de Hilliard y Sakho\, pero no logr
+ ó cerrar el partido.\n\nTenerife ha ganado cuatro de los últimos cinco p
+ artidos. Breogán ganó 76-54 en mayo de 2024. Otros resultados incluyen 8
+ 8-81\, 85-67 y 96-78 para Tenerife.
+LOCATION:Estadio de La Laguna Tenerife
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: La Laguna Tenerife - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Barça
+DTSTART;TZID=Europe/Madrid:20260308T123000
+DTEND;TZID=Europe/Madrid:20260308T143000
+DESCRIPTION:Partido fuera de casa.\n\nEl 2 de marzo de 2025\, Barça venci
+ ó a Río Breogán por 102-79 en el Palau Blaugrana. Shermadini y Pradilla
+  fueron claves en la victoria. Breogán tuvo un buen inicio\, pero Barça 
+ dominó desde el segundo cuarto.\n\nEn los últimos cinco enfrentamientos\
+ , Barça ha ganado tres y Breogán dos. El 10 de noviembre de 2024\, Breog
+ án ganó 77-70 en Lugo con Charlie Moore como figura. Otros resultados in
+ cluyen 88-85 y 79-63 a favor de Barça.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Barça
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surne Bilbao Basket - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260314T210000
+DTEND;TZID=Europe/Madrid:20260314T230000
+DESCRIPTION:Partido en casa.\n\nEl 25 de enero de 2025\, Breogán venció 
+ a Bilbao Basket 76-71. Hilliard y Atic fueron claves en el último cuarto.
+  El partido fue muy igualado\, con alternancias en el marcador hasta el fi
+ nal.\n\nEn los últimos cinco partidos\, Breogán ha ganado tres y Bilbao 
+ dos. El 9 de diciembre de 2023\, Breogán ganó 76-68. Otros resultados in
+ cluyen 90-72 y 83-66 para Bilbao.
+LOCATION:Estadio de Surne Bilbao Basket
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Surne Bilbao Basket - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dreamland Gran Canaria - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260322T130000
+DTEND;TZID=Europe/Madrid:20260322T150000
+DESCRIPTION:Partido fuera de casa.\n\nRío Breogán y Dreamland Gran Canar
+ ia han tenido enfrentamientos muy disputados. El 25 de mayo de 2025\, Gran
+  Canaria venció 82-74 en Lugo\, liderado por Caleb Homesley con 19 puntos
+  y 26 de valoración. Breogán luchó con intensidad\, pero un parcial de 
+ 5-24 en el tercer cuarto fue decisivo.\n\nEn los últimos cinco partidos\,
+  Gran Canaria ha ganado cuatro y Breogán uno. El 8 de diciembre de 2024\,
+  Breogán ganó 82-73 en Las Palmas. Otros resultados incluyen 77-70\, 86-
+ 60 y 77-66 a favor de Gran Canaria.
+LOCATION:Estadio de Dreamland Gran Canaria
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Dreamland Gran Canaria - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - BAXI Manresa
+DTSTART;TZID=Europe/Madrid:20260328T180000
+DTEND;TZID=Europe/Madrid:20260328T200000
+DESCRIPTION:Partido en casa.\n\nEl 2 de enero de 2025\, Manresa venció a 
+ Breogán 88-79 en Lugo. Derrick Alston Jr. y Cameron Hunt lideraron la ofe
+ nsiva visitante. Breogán tuvo buenos minutos de Egbunu y Mavra\, pero no 
+ fue suficiente.\n\nEn los últimos cinco partidos\, Manresa ha ganado cuat
+ ro y Breogán uno. El 3 de mayo de 2025\, Breogán ganó 104-93 en Manresa
+ . Otros resultados incluyen 83-68\, 89-85 y 82-81 para Manresa.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - BAXI Manresa
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valencia Basket - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260405T180000
+DTEND;TZID=Europe/Madrid:20260405T200000
+DESCRIPTION:Partido en casa.\n\nRío Breogán y Valencia Basket han tenido
+  enfrentamientos muy intensos en las últimas temporadas. El 12 de octubre
+  de 2025\, Valencia venció 113-90 en Lugo\, con Jaime Pradilla destacando
+  con 22 puntos. Breogán comenzó fuerte\, pero Valencia remontó con un p
+ arcial de 4-28 liderado por Thompson y Moore.\n\nEn los últimos cinco par
+ tidos\, Valencia ha ganado cuatro y Breogán uno. El 30 de mayo de 2025\, 
+ Valencia ganó 108-61. Otros resultados incluyen 87-75\, 84-70 y una victo
+ ria de Breogán por 76-74. Valencia ha mostrado superioridad ofensiva en l
+ a mayoría de los encuentros.
+LOCATION:Estadio de Valencia Basket
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Valencia Basket - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - MoraBanc Andorra
+DTSTART;TZID=Europe/Madrid:20260411T190000
+DTEND;TZID=Europe/Madrid:20260411T210000
+DESCRIPTION:Partido en casa.\n\nEl 8 de marzo de 2025\, Breogán venció a
+  Andorra 94-74 en Lugo. Hilliard fue el máximo anotador con 18 puntos. El
+  equipo lucense dominó desde el inicio y mantuvo la ventaja durante todo 
+ el partido.\n\nBreogán ha ganado cuatro de los últimos cinco partidos. E
+ l 4 de enero de 2025\, venció 101-93 en Andorra. Otros resultados incluye
+ n 98-94 y 86-70 para Breogán.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - MoraBanc Andorra
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recoletas Salud San Pablo Burgos - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260419T170000
+DTEND;TZID=Europe/Madrid:20260419T190000
+DESCRIPTION:Partido en casa.\n\nEl 28 de septiembre de 2025\, Breogán ven
+ ció a San Pablo Burgos 94-87 en el trofeo Lugo é Básket. Francis Alonso
+  fue el MVP con 22 puntos. El equipo lucense mostró gran intensidad defen
+ siva y acierto desde el perímetro.\n\nEn los últimos cinco partidos\, Br
+ eogán ha ganado tres y Burgos dos. Destacan los encuentros del 3 de abril
+  de 2022 (Breogán ganó 105-96) y del 12 de marzo de 2022 (Burgos ganó 9
+ 4-86).
+LOCATION:Estadio de Recoletas Salud San Pablo Burgos
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Recoletas Salud San Pablo Burgos - 🦁🏀 Río
+  Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Joventut Badalona
+DTSTART;TZID=Europe/Madrid:20260426T120000
+DTEND;TZID=Europe/Madrid:20260426T140000
+DESCRIPTION:Partido en casa.\n\nEl 26 de abril de 2025\, Joventut venció 
+ a Breogán 82-65 en Lugo. Ante Tomic fue dominante con 16 puntos y 10 rebo
+ tes. Breogán intentó reaccionar con triples de Grant\, pero Joventut man
+ tuvo el control.\n\nEn los últimos cinco partidos\, Joventut ha ganado cu
+ atro y Breogán uno. El 19 de octubre de 2024\, Breogán ganó 76-70 en Ba
+ dalona. Otros resultados incluyen 85-77\, 85-66 y 96-87 para Joventut.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Joventut Badalona
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baskonia - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260502T210000
+DTEND;TZID=Europe/Madrid:20260502T230000
+DESCRIPTION:Partido fuera de casa.\n\nÚltimos 5 enfrentamientos: (Datos c
+ ompletos no disponibles…) Resumen: Río Breogán ganó 2 y perdió 3 (es
+ timación general)
+LOCATION:Estadio de Baskonia
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Baskonia - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Madrid - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260510T170000
+DTEND;TZID=Europe/Madrid:20260510T190000
+DESCRIPTION:Partido en casa.\n\nEl 11 de mayo de 2025\, Real Madrid venci
+ ó a Breogán 79-69 en Lugo. Musa y Tavares fueron determinantes. Breogán
+  mostró resistencia con Vila y Grant\, pero no logró frenar el poder ofe
+ nsivo madridista.\n\nReal Madrid ha ganado los últimos cinco enfrentamien
+ tos. El 15 de diciembre de 2024\, venció 106-69. Otros resultados incluye
+ n 94-80\, 96-87 y 90-87.
+LOCATION:Estadio de Real Madrid
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Real Madrid - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Hiopos Lleida
+DTSTART;TZID=Europe/Madrid:20260513T200000
+DTEND;TZID=Europe/Madrid:20260513T220000
+DESCRIPTION:Partido fuera de casa.\n\nEl 4 de octubre de 2025\, Hiopos Lle
+ ida venció a Río Breogán por 87-68. Golomán lideró con 16 puntos y 9 
+ rebotes. Breogán tuvo dificultades ofensivas\, con un 32% en tiros de cam
+ po. Cook fue el máximo anotador de Breogán con 18 puntos.\n\nEn los últ
+ imos cinco enfrentamientos\, Lleida ha ganado tres y Breogán dos. El 17 d
+ e marzo de 2024\, Breogán ganó 85-80 en Lugo. Otros resultados incluyen 
+ 94-81 y 91-85 a favor de Lleida. Los partidos han sido de alta intensidad 
+ y con marcadores ajustados.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Hiopos Lleida
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Bàsquet Girona
+DTSTART;TZID=Europe/Madrid:20260516T180000
+DTEND;TZID=Europe/Madrid:20260516T200000
+DESCRIPTION:Partido fuera de casa.\n\nEl 12 de abril de 2025\, Girona venc
+ ió a Breogán 91-85. Pep Busquets fue el máximo anotador con 16 puntos. 
+ Breogán intentó remontar con triples de Grant\, pero un parcial de 11-0 
+ en el último cuarto sentenció el partido.\n\nEn los últimos cinco enfre
+ ntamientos\, Breogán ha ganado tres y Girona dos. El 21 de enero de 2024\
+ , Breogán ganó 93-75. Otros resultados incluyen 87-83 y 92-70.
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Bàsquet Girona
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unicaja - 🦁🏀 Río Breogán
+DTSTART;TZID=Europe/Madrid:20260523T180000
+DTEND;TZID=Europe/Madrid:20260523T200000
+DESCRIPTION:Partido en casa.\n\nEl 8 de febrero de 2025\, Breogán venció
+  a Unicaja 81-79 en Lugo. Eric Vila fue el héroe con 21 puntos. El partid
+ o fue muy igualado\, con remontada de Breogán en el tercer cuarto.\n\nUni
+ caja ha ganado tres de los últimos cinco partidos. El 28 de diciembre de 
+ 2024\, venció 86-77. Otros resultados incluyen 76-65 y 84-70 para Unicaja
+ .
+LOCATION:Estadio de Unicaja
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: Unicaja - 🦁🏀 Río Breogán
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🦁🏀 Río Breogán - Casademont Zaragoza
+DTSTART;TZID=Europe/Madrid:20260529T160000
+DTEND;TZID=Europe/Madrid:20260529T180000
+DESCRIPTION:Partido en casa.\n\nÚltimos 5 enfrentamientos: (Datos complet
+ os no disponibles…) Resumen: Río Breogán ganó 2 y perdió 3 (estimaci
+ ón general)
+LOCATION:Pazo dos Deportes
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Casademont Zaragoza
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
