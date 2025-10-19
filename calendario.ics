@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Río Breogán Season 2025-26//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Hiopos Lleida - 🦁🏀 Río Breogán
+SUMMARY:Hiopos Lleida 87 - 🦁🏀 Río Breogán 68
 DTSTART;TZID=Europe/Madrid:20251004T210000
 DTEND;TZID=Europe/Madrid:20251004T230000
 DESCRIPTION:Partido fuera de casa.\n\nEl 4 de octubre de 2025\, Hiopos Lle
@@ -584,4 +584,5 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
+
 
