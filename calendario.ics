@@ -36,16 +36,25 @@ DESCRIPTION:Partido en casa.\n\nRío Breogán y Valencia Basket han tenido
 LOCATION:Pazo dos Deportes
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán 84 - Valencia Basket 88
+DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Valencia Basket
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Casademont Zaragoza - 🦁🏀 Río Breogán
+SUMMARY:Casademont Zaragoza 84 - 🦁🏀 Río Breogán 88
 DTSTART;TZID=Europe/Madrid:20251018T210000
 DTEND;TZID=Europe/Madrid:20251018T230000
-DESCRIPTION:Partido fuera de casa.\n\nÚltimos 5 enfrentamientos: (Datos c
- ompletos no disponibles…) Resumen: Río Breogán ganó 2 y perdió 3 (es
+DESCRIPTION:Partido fuera de casa.\n El Río Breogán logró su primera 
+victoria de la temporada al imponerse 84-88 al Casademont Zaragoza en un duelo
+muy igualado disputado en el Príncipe Felipe. Aunque los locales comenzaron
+dominando con transiciones rápidas y una ventaja de hasta 10 puntos, los 
+gallegos reaccionaron con acierto ofensivo, especialmente desde el perímetro,
+y empataron al descanso. En la segunda mitad, Breogán fue más sólido en 
+defensa y más certero en momentos clave, destacando los 16 puntos de Russell
+y los triples de Andric y Kurucs. A pesar del esfuerzo de Yusta (22 puntos) 
+y un parcial de 7-0 que devolvió la ventaja a Zaragoza, el equipo lucense 
+supo manejar mejor los instantes finales para llevarse un triunfo merecido.
+\n\nÚltimos 5 enfrentamientos: (Datos completos no disponibles…) Resumen: Río Breogán ganó 2 y perdió 3 (es
  timación general)
 LOCATION:Estadio de Casademont Zaragoza
 BEGIN:VALARM
@@ -584,6 +593,7 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
+
 
 
 
