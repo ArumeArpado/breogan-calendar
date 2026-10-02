@@ -10,9 +10,9 @@ X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:105378@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:8f632530aacdeeb1
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:2703f2caebf5c12c
 DTSTART;TZID=Europe/Madrid:20260927T120000
 DTEND;TZID=Europe/Madrid:20260927T140000
 SUMMARY:🦁🏀 Río Breogán - Asisa Joventut (110-104)
@@ -20,23 +20,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Asisa Joventut (110-104)\\nÚltimos en
- frentamientos (Liga Endesa):\\n26/04/2026 | Liga Endesa 2025-26 J? | 🦁
- 🏀 Río Breogán 93-86 Asisa Joventut | https://acb.com/es/liga/calendar
- io?temporada=90\\n27/12/2025 | Liga Endesa 2025-26 J? | Asisa Joventut 83-
- 75 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=9
- 0\\n26/04/2025 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 65-82 Jov
- entut Badalona | https://acb.com/es/liga/calendario?temporada=89\\n19/10/2
- 024 | Liga Endesa 2024-25 J? | Joventut Badalona 70-76 🦁🏀 Río Breog
- án | https://acb.com/es/liga/calendario?temporada=89\\n02/03/2024 | Liga 
- Endesa 2023-24 J? | Joventut Badalona 78-70 🦁🏀 Río Breogán | https
- ://acb.com/es/liga/calendario?temporada=88\\n11/11/2023 | Liga Endesa 2023
- -24 J? | 🦁🏀 Río Breogán 85-77 Joventut Badalona | https://acb.com/
- es/liga/calendario?temporada=88\\nCuriosidad: margen mínimo 6 pts (19/10/
- 2024\, 2024-25\, 70-76\, https://acb.com/es/liga/calendario?temporada=89)\
- \nFuente: https://acb.com/es/liga/calendario?temporada=91 | Sede: Pazo Pro
- vincial dos Deportes de Lugo\, Avenida Filarmónica Lucense\, s/n\, 27002 
- Lugo\, España (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n26/04/2026 · 2025-26\nBreogán 93–86 Joventut\n\n27/12/2025 · 
+ 2025-26\nJoventut 83–75 Breogán\n\n26/04/2025 · 2024-25\nBreogán 65
+ –82 Joventut\n\n19/10/2024 · 2024-25\nJoventut 70–76 Breogán\n\n02/0
+ 3/2024 · 2023-24\nJoventut 78–70 Breogán\n\n11/11/2023 · 2023-24\nBre
+ ogán 85–77 Joventut\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\
+ n19/10/2024 · 2024-25\nJoventut 70–76 Breogán\nFue el más ajustado de
+  esta lista: 6 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://a
+ cb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/
+ es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga
+ /calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/cal
+ endario?temporada=91\n\nInformación del pabellón\nhttps://deputacionlugo
+ .gal/gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -46,9 +42,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105386@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:e1edc64ff2db4b4c
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:4260ae094b90030e
 DTSTART;TZID=Europe/Madrid:20261003T210000
 DTEND;TZID=Europe/Madrid:20261003T230000
 SUMMARY:Kids&Us Manresa - 🦁🏀 Río Breogán
@@ -56,23 +52,19 @@ LOCATION:Pavelló Nou Congost\, Carretera de Manresa a Sant Joan\, s/n\, 08
  241 Manresa (Barcelona)\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Kids&Us Manresa - 🦁🏀 Río Breogán\\nÚltimos enfrentamie
- ntos (Liga Endesa):\\n28/03/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río 
- Breogán 91-78 Kids&Us Manresa | https://acb.com/es/liga/calendario?tempor
- ada=90\\n10/01/2026 | Liga Endesa 2025-26 J? | Kids&Us Manresa 104-99 🦁
- 🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=90\\n03/
- 05/2025 | Liga Endesa 2024-25 J? | BAXI Manresa 93-104 🦁🏀 Río Breog
- án | https://acb.com/es/liga/calendario?temporada=89\\n02/01/2025 | Liga 
- Endesa 2024-25 J? | 🦁🏀 Río Breogán 79-88 BAXI Manresa | https://ac
- b.com/es/liga/calendario?temporada=89\\n27/01/2024 | Liga Endesa 2023-24 J
- ? | BAXI Manresa 83-68 🦁🏀 Río Breogán | https://acb.com/es/liga/ca
- lendario?temporada=88\\n01/10/2023 | Liga Endesa 2023-24 J? | 🦁🏀 Rí
- o Breogán 85-89 BAXI Manresa | https://acb.com/es/liga/calendario?tempora
- da=88\\nCuriosidad: margen mínimo 4 pts (01/10/2023\, 2023-24\, 85-89\, h
- ttps://acb.com/es/liga/calendario?temporada=88)\\nFuente: https://acb.com/
- es/liga/calendario?temporada=91 | Sede: Pavelló Nou Congost\, Carretera d
- e Manresa a Sant Joan\, s/n\, 08241 Manresa (Barcelona)\, España (https:/
- /www.basquetmanresa.com/en/text-contact/)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n28/03/2026 · 2025-26\nBreogán 91–78 Manresa\n\n10/01/202
+ 6 · 2025-26\nManresa 104–99 Breogán\n\n03/05/2025 · 2024-25\nManresa 
+ 93–104 Breogán\n\n02/01/2025 · 2024-25\nBreogán 79–88 Manresa\n\n27
+ /01/2024 · 2023-24\nManresa 83–68 Breogán\n\n01/10/2023 · 2023-24\nBr
+ eogán 85–89 Manresa\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\
+ n01/10/2023 · 2023-24\nBreogán 85–89 Manresa\nFue el más ajustado de 
+ esta lista: 4 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://ac
+ b.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/e
+ s/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/
+ calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/cale
+ ndario?temporada=91\n\nInformación del pabellón\nhttps://www.basquetmanr
+ esa.com/en/text-contact/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -82,9 +74,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105395@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:46a5aebbf7bb7b4a
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:ec34fca2147d25ef
 DTSTART;TZID=Europe/Madrid:20261010T210000
 DTEND;TZID=Europe/Madrid:20261010T230000
 SUMMARY:🦁🏀 Río Breogán - FIATC Girona
@@ -92,23 +84,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - FIATC Girona\\nÚltimos enfrentamiento
- s (Liga Endesa):\\n16/05/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Bre
- ogán 95-76 FIATC Girona | https://acb.com/es/liga/calendario?temporada=90
- \\n06/12/2025 | Liga Endesa 2025-26 J? | FIATC Girona 103-80 🦁🏀 Río
-  Breogán | https://acb.com/es/liga/calendario?temporada=90\\n12/04/2025 |
-  Liga Endesa 2024-25 J? | Bàsquet Girona 91-85 🦁🏀 Río Breogán | h
- ttps://acb.com/es/liga/calendario?temporada=89\\n21/12/2024 | Liga Endesa 
- 2024-25 J? | 🦁🏀 Río Breogán 77-74 Bàsquet Girona | https://acb.co
- m/es/liga/calendario?temporada=89\\n21/01/2024 | Liga Endesa 2023-24 J? | 
- 🦁🏀 Río Breogán 93-75 Bàsquet Girona | https://acb.com/es/liga/cal
- endario?temporada=88\\n18/11/2023 | Liga Endesa 2023-24 J? | Bàsquet Giro
- na 87-83 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempo
- rada=88\\nCuriosidad: margen mínimo 3 pts (21/12/2024\, 2024-25\, 77-74\,
-  https://acb.com/es/liga/calendario?temporada=89)\\nFuente: https://acb.co
- m/es/liga/calendario?temporada=91 | Sede: Pazo Provincial dos Deportes de 
- Lugo\, Avenida Filarmónica Lucense\, s/n\, 27002 Lugo\, España (https://
- deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n16/05/2026 · 2025-26\nBreogán 95–76 Girona\n\n06/12/2025 · 20
+ 25-26\nGirona 103–80 Breogán\n\n12/04/2025 · 2024-25\nGirona 91–85 B
+ reogán\n\n21/12/2024 · 2024-25\nBreogán 77–74 Girona\n\n21/01/2024 ·
+  2023-24\nBreogán 93–75 Girona\n\n18/11/2023 · 2023-24\nGirona 87–83
+  Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n21/12/2024 
+ · 2024-25\nBreogán 77–74 Girona\nFue el más ajustado de esta lista: 3
+  puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/es/liga
+ /calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/liga/calend
+ ario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calendario?te
+ mporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendario?tempor
+ ada=91\n\nInformación del pabellón\nhttps://deputacionlugo.gal/gl/infoco
+ ntacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -118,9 +106,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105403@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:02f507fb9c9171b0
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:6e9d999c80770ba2
 DTSTART;TZID=Europe/Madrid:20261017T193000
 DTEND;TZID=Europe/Madrid:20261017T213000
 SUMMARY:MoraBanc Andorra - 🦁🏀 Río Breogán
@@ -128,24 +116,20 @@ LOCATION:Pavelló Toni Martí\, Baixada del Molí\, 31\, AD500 Andorra la V
  ella\, Andorra
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:MoraBanc Andorra - 🦁🏀 Río Breogán\\nÚltimos enfrentami
- entos (Liga Endesa):\\n11/04/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río
-  Breogán 97-99 MoraBanc Andorra | https://acb.com/es/liga/calendario?temp
- orada=90\\n17/01/2026 | Liga Endesa 2025-26 J? | MoraBanc Andorra 101-104 
- 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=90\\
- n08/03/2025 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 94-74 MoraBa
- nc Andorra | https://acb.com/es/liga/calendario?temporada=89\\n04/01/2025 
- | Liga Endesa 2024-25 J? | MoraBanc Andorra 93-101 🦁🏀 Río Breogán 
- | https://acb.com/es/liga/calendario?temporada=89\\n10/05/2024 | Liga Ende
- sa 2023-24 J? | 🦁🏀 Río Breogán 97-92 MoraBanc Andorra | https://ac
- b.com/es/liga/calendario?temporada=88\\n29/09/2023 | Liga Endesa 2023-24 J
- ? | MoraBanc Andorra 63-69 🦁🏀 Río Breogán | https://acb.com/es/lig
- a/calendario?temporada=88\\nCuriosidad: margen mínimo 2 pts (11/04/2026\,
-  2025-26\, 97-99\, https://acb.com/es/liga/calendario?temporada=90)\\nFuen
- te: https://acb.com/es/liga/calendario?temporada=91 | Sede: Pavelló Toni 
- Martí\, Baixada del Molí\, 31\, AD500 Andorra la Vella\, Andorra (https:
- //www.govern.ad/ca/ministeris-i-secretaries-d-estat/ministeri-de-cultura-j
- oventut-i-esports/esport/esport-federat/entitats-esportives)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n11/04/2026 · 2025-26\nBreogán 97–99 Andorra\n\n17/01/202
+ 6 · 2025-26\nAndorra 101–104 Breogán\n\n08/03/2025 · 2024-25\nBreogá
+ n 94–74 Andorra\n\n04/01/2025 · 2024-25\nAndorra 93–101 Breogán\n\n1
+ 0/05/2024 · 2023-24\nBreogán 97–92 Andorra\n\n29/09/2023 · 2023-24\nA
+ ndorra 63–69 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR
+ \n11/04/2026 · 2025-26\nBreogán 97–99 Andorra\nFue el más ajustado de
+  esta lista: 2 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://a
+ cb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/
+ es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga
+ /calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/cal
+ endario?temporada=91\n\nInformación del pabellón\nhttps://www.govern.ad/
+ ca/ministeris-i-secretaries-d-estat/ministeri-de-cultura-joventut-i-esport
+ s/esport/esport-federat/entitats-esportives
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -155,9 +139,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105418@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:d48e36865612acc9
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:26f01164e8bf9614
 DTSTART;TZID=Europe/Madrid:20261025T190000
 DTEND;TZID=Europe/Madrid:20261025T210000
 SUMMARY:🦁🏀 Río Breogán - Unicaja
@@ -165,22 +149,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Unicaja\\nÚltimos enfrentamientos (Li
- ga Endesa):\\n23/05/2026 | Liga Endesa 2025-26 J? | Unicaja 101-83 🦁
- 🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=90\\n03/
- 01/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 98-82 Unicaja | 
- https://acb.com/es/liga/calendario?temporada=90\\n08/02/2025 | Liga Endesa
-  2024-25 J? | 🦁🏀 Río Breogán 81-79 Unicaja | https://acb.com/es/li
- ga/calendario?temporada=89\\n28/12/2024 | Liga Endesa 2024-25 J? | Unicaja
-  86-77 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempora
- da=89\\n09/03/2024 | Liga Endesa 2023-24 J? | 🦁🏀 Río Breogán 65-76
-  Unicaja | https://acb.com/es/liga/calendario?temporada=88\\n28/10/2023 | 
- Liga Endesa 2023-24 J? | Unicaja 87-70 🦁🏀 Río Breogán | https://ac
- b.com/es/liga/calendario?temporada=88\\nCuriosidad: margen mínimo 2 pts (
- 08/02/2025\, 2024-25\, 81-79\, https://acb.com/es/liga/calendario?temporad
- a=89)\\nFuente: https://acb.com/es/liga/calendario?temporada=91 | Sede: Pa
- zo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucense\, s/n\, 
- 27002 Lugo\, España (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n23/05/2026 · 2025-26\nUnicaja 101–83 Breogán\n\n03/01/2026 · 
+ 2025-26\nBreogán 98–82 Unicaja\n\n08/02/2025 · 2024-25\nBreogán 81–
+ 79 Unicaja\n\n28/12/2024 · 2024-25\nUnicaja 86–77 Breogán\n\n09/03/202
+ 4 · 2023-24\nBreogán 65–76 Unicaja\n\n28/10/2023 · 2023-24\nUnicaja 8
+ 7–70 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n08/02/
+ 2025 · 2024-25\nBreogán 81–79 Unicaja\nFue el más ajustado de esta li
+ sta: 2 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/e
+ s/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/liga/
+ calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calenda
+ rio?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendario?
+ temporada=91\n\nInformación del pabellón\nhttps://deputacionlugo.gal/gl/
+ infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -190,9 +171,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105424@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:524e3eb3d9b67ff2
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:2ed1af767d60ca51
 DTSTART;TZID=Europe/Madrid:20261101T120000
 DTEND;TZID=Europe/Madrid:20261101T140000
 SUMMARY:Monbus Obradoiro - 🦁🏀 Río Breogán
@@ -200,24 +181,19 @@ LOCATION:Multiusos Fontes do Sar\, Rúa Diego Bernal\, s/n\, 15702 Santiago
   de Compostela (A Coruña)\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Monbus Obradoiro - 🦁🏀 Río Breogán\\nÚltimos enfrentami
- entos (Liga Endesa):\\n23/03/2024 | Liga Endesa 2023-24 J? | Monbus Obrado
- iro 83-72 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temp
- orada=88\\n23/12/2023 | Liga Endesa 2023-24 J? | 🦁🏀 Río Breogán 88
- -90 Monbus Obradoiro | https://acb.com/es/liga/calendario?temporada=88\\n2
- 5/03/2023 | Liga Endesa 2022-23 J? | Monbus Obradoiro 67-74 🦁🏀 Río 
- Breogán | https://acb.com/es/liga/calendario?temporada=87\\n07/01/2023 | 
- Liga Endesa 2022-23 J? | 🦁🏀 Río Breogán 64-59 Monbus Obradoiro | h
- ttps://acb.com/es/liga/calendario?temporada=87\\n26/03/2022 | Liga Endesa 
- 2021-22 J? | 🦁🏀 Río Breogán 80-78 Monbus Obradoiro | https://acb.c
- om/es/liga/calendario?temporada=86\\n23/01/2022 | Liga Endesa 2021-22 J? |
-  Monbus Obradoiro 100-83 🦁🏀 Río Breogán | https://acb.com/es/liga/
- calendario?temporada=86\\nCuriosidad: margen mínimo 2 pts (23/12/2023\, 2
- 023-24\, 88-90\, https://acb.com/es/liga/calendario?temporada=88)\\nFuente
- : https://acb.com/es/liga/calendario?temporada=91 | Sede: Multiusos Fontes
-  do Sar\, Rúa Diego Bernal\, s/n\, 15702 Santiago de Compostela (A Coruñ
- a)\, España (https://www.obradoirocab.gal/es/pagina/ver/1002-obradoiro-ca
- b-sad.html)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n23/03/2024 · 2023-24\nObradoiro 83–72 Breogán\n\n23/12/2
+ 023 · 2023-24\nBreogán 88–90 Obradoiro\n\n25/03/2023 · 2022-23\nObrad
+ oiro 67–74 Breogán\n\n07/01/2023 · 2022-23\nBreogán 64–59 Obradoiro
+ \n\n26/03/2022 · 2021-22\nBreogán 80–78 Obradoiro\n\n23/01/2022 · 202
+ 1-22\nObradoiro 100–83 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PAR
+ A RECORDAR\n23/12/2023 · 2023-24\nBreogán 88–90 Obradoiro\nFue el más
+  ajustado de esta lista: 2 puntos de diferencia.\n\nFUENTES\nACB · 2023-2
+ 4\nhttps://acb.com/es/liga/calendario?temporada=88\n\nACB · 2022-23\nhttp
+ s://acb.com/es/liga/calendario?temporada=87\n\nACB · 2021-22\nhttps://acb
+ .com/es/liga/calendario?temporada=86\n\nCalendario actual\nhttps://acb.com
+ /es/liga/calendario?temporada=91\n\nInformación del pabellón\nhttps://ww
+ w.obradoirocab.gal/es/pagina/ver/1002-obradoiro-cab-sad.html
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -227,9 +203,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105432@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:1647313c53c26e03
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:3efb09a06413a87c
 DTSTART;TZID=Europe/Madrid:20261108T120000
 DTEND;TZID=Europe/Madrid:20261108T140000
 SUMMARY:Barça - 🦁🏀 Río Breogán
@@ -237,22 +213,19 @@ LOCATION:Palau Blaugrana\, C/ Arístides Mallol\, s/n\, 08028 Barcelona\, E
  spaña
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Barça - 🦁🏀 Río Breogán\\nÚltimos enfrentamientos (Lig
- a Endesa):\\n08/03/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 
- 78-109 Barça | https://acb.com/es/liga/calendario?temporada=90\\n25/10/20
- 25 | Liga Endesa 2025-26 J? | Barça 100-85 🦁🏀 Río Breogán | https
- ://acb.com/es/liga/calendario?temporada=90\\n02/03/2025 | Liga Endesa 2024
- -25 J? | Barça 102-79 🦁🏀 Río Breogán | https://acb.com/es/liga/ca
- lendario?temporada=89\\n10/11/2024 | Liga Endesa 2024-25 J? | 🦁🏀 Rí
- o Breogán 77-70 Barça | https://acb.com/es/liga/calendario?temporada=89\
- \n17/03/2024 | Liga Endesa 2023-24 J? | Barça 85-88 🦁🏀 Río Breogá
- n | https://acb.com/es/liga/calendario?temporada=88\\n05/11/2023 | Liga En
- desa 2023-24 J? | 🦁🏀 Río Breogán 63-79 Barça | https://acb.com/es
- /liga/calendario?temporada=88\\nCuriosidad: margen mínimo 3 pts (17/03/20
- 24\, 2023-24\, 85-88\, https://acb.com/es/liga/calendario?temporada=88)\\n
- Fuente: https://acb.com/es/liga/calendario?temporada=91 | Sede: Palau Blau
- grana\, C/ Arístides Mallol\, s/n\, 08028 Barcelona\, España (https://ww
- w.fcbarcelona.es/es/club/instalaciones/palau-blaugrana/como-llegar)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n08/03/2026 · 2025-26\nBreogán 78–109 Barça\n\n25/10/202
+ 5 · 2025-26\nBarça 100–85 Breogán\n\n02/03/2025 · 2024-25\nBarça 10
+ 2–79 Breogán\n\n10/11/2024 · 2024-25\nBreogán 77–70 Barça\n\n17/03
+ /2024 · 2023-24\nBarça 85–88 Breogán\n\n05/11/2023 · 2023-24\nBreog
+ án 63–79 Barça\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n17/
+ 03/2024 · 2023-24\nBarça 85–88 Breogán\nFue el más ajustado de esta 
+ lista: 3 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com
+ /es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/lig
+ a/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calen
+ dario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendari
+ o?temporada=91\n\nInformación del pabellón\nhttps://www.fcbarcelona.es/e
+ s/club/instalaciones/palau-blaugrana/como-llegar
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -262,9 +235,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105438@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:4ba1e6be73fca963
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:6d68bc409e79de64
 DTSTART;TZID=Europe/Madrid:20261114T180000
 DTEND;TZID=Europe/Madrid:20261114T200000
 SUMMARY:🦁🏀 Río Breogán - Recoletas Salud San Pablo Burgos
@@ -272,24 +245,17 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Recoletas Salud San Pablo Burgos\\nÚl
- timos enfrentamientos (Liga Endesa):\\n19/04/2026 | Liga Endesa 2025-26 J?
-  | Recoletas Salud San Pablo Burgos 94-99 🦁🏀 Río Breogán | https:/
- /acb.com/es/liga/calendario?temporada=90\\n22/11/2025 | Liga Endesa 2025-2
- 6 J? | 🦁🏀 Río Breogán 105-78 Recoletas Salud San Pablo Burgos | ht
- tps://acb.com/es/liga/calendario?temporada=90\\n03/04/2022 | Liga Endesa 2
- 021-22 J? | 🦁🏀 Río Breogán 105-96 Hereda San Pablo Burgos | https:
- //acb.com/es/liga/calendario?temporada=86\\n23/09/2021 | Liga Endesa 2021-
- 22 J? | Hereda San Pablo Burgos 62-87 🦁🏀 Río Breogán | https://acb
- .com/es/liga/calendario?temporada=86\\n26/05/2019 | Liga Endesa 2018-19 J?
-  | Cafés Candelas Breogán 76-95 San Pablo Burgos | https://acb.com/es/li
- ga/calendario?temporada=83\\n20/10/2018 | Liga Endesa 2018-19 J? | San Pab
- lo Burgos 92-76 Cafés Candelas Breogán | https://acb.com/es/liga/calenda
- rio?temporada=83\\nCuriosidad: margen mínimo 5 pts (19/04/2026\, 2025-26\
- , 94-99\, https://acb.com/es/liga/calendario?temporada=90)\\nFuente: https
- ://acb.com/es/liga/calendario?temporada=91 | Sede: Pazo Provincial dos Dep
- ortes de Lugo\, Avenida Filarmónica Lucense\, s/n\, 27002 Lugo\, España 
- (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nENFRENTAMIENTOS ANTE
+ RIORES (4)\n19/04/2026 · 2025-26\nBurgos 94–99 Breogán\n\n22/11/2025 
+ · 2025-26\nBreogán 105–78 Burgos\n\n03/04/2022 · 2021-22\nBreogán 10
+ 5–96 Burgos\n\n23/09/2021 · 2021-22\nBurgos 62–87 Breogán\n\nSolo li
+ ga regular ACB.\nSolo hay 4 encuentros anteriores verificados en los datos
+  consultados.\n\nPARTIDO PARA RECORDAR\n19/04/2026 · 2025-26\nBurgos 94
+ –99 Breogán\nFue el más ajustado de esta lista: 5 puntos de diferencia
+ .\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/es/liga/calendario?temporada
+ =90\n\nACB · 2021-22\nhttps://acb.com/es/liga/calendario?temporada=86\n\n
+ Calendario actual\nhttps://acb.com/es/liga/calendario?temporada=91\n\nInfo
+ rmación del pabellón\nhttps://deputacionlugo.gal/gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -300,9 +266,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105453@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:0f1795d3460b8809
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:81dd55dad8ab052f
 DTSTART;TZID=Europe/Madrid:20261122T170000
 DTEND;TZID=Europe/Madrid:20261122T190000
 SUMMARY:Valencia Basket - 🦁🏀 Río Breogán
@@ -310,23 +276,19 @@ LOCATION:Roig Arena\, C/ Bomber Ramón Duart\, 12\, Quatre Carreres\, 46013
   Valencia\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Valencia Basket - 🦁🏀 Río Breogán\\nÚltimos enfrentamie
- ntos (Liga Endesa):\\n05/04/2026 | Liga Endesa 2025-26 J? | Valencia Baske
- t 105-88 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempo
- rada=90\\n12/10/2025 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 90-
- 113 Valencia Basket | https://acb.com/es/liga/calendario?temporada=90\\n30
- /05/2025 | Liga Endesa 2024-25 J? | Valencia Basket 108-61 🦁🏀 Río B
- reogán | https://acb.com/es/liga/calendario?temporada=89\\n13/10/2024 | L
- iga Endesa 2024-25 J? | 🦁🏀 Río Breogán 75-87 Valencia Basket | htt
- ps://acb.com/es/liga/calendario?temporada=89\\n14/01/2024 | Liga Endesa 20
- 23-24 J? | Valencia Basket 88-80 🦁🏀 Río Breogán | https://acb.com/
- es/liga/calendario?temporada=88\\n15/10/2023 | Liga Endesa 2023-24 J? | 
- 🦁🏀 Río Breogán 59-61 Valencia Basket | https://acb.com/es/liga/cal
- endario?temporada=88\\nCuriosidad: margen mínimo 2 pts (15/10/2023\, 2023
- -24\, 59-61\, https://acb.com/es/liga/calendario?temporada=88)\\nFuente: h
- ttps://acb.com/es/liga/calendario?temporada=91 | Sede: Roig Arena\, C/ Bom
- ber Ramón Duart\, 12\, Quatre Carreres\, 46013 Valencia\, España (https:
- //www.roigarena.com/es/como-llegar/)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n05/04/2026 · 2025-26\nValencia 105–88 Breogán\n\n12/10/2
+ 025 · 2025-26\nBreogán 90–113 Valencia\n\n30/05/2025 · 2024-25\nValen
+ cia 108–61 Breogán\n\n13/10/2024 · 2024-25\nBreogán 75–87 Valencia\
+ n\n14/01/2024 · 2023-24\nValencia 88–80 Breogán\n\n15/10/2023 · 2023-
+ 24\nBreogán 59–61 Valencia\n\nSolo liga regular ACB.\n\nPARTIDO PARA RE
+ CORDAR\n15/10/2023 · 2023-24\nBreogán 59–61 Valencia\nFue el más ajus
+ tado de esta lista: 2 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nht
+ tps://acb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://a
+ cb.com/es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/
+ es/liga/calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/l
+ iga/calendario?temporada=91\n\nInformación del pabellón\nhttps://www.roi
+ garena.com/es/como-llegar/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -336,9 +298,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105458@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:e347aaf5310ea60c
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:9a44929aaf9229b0
 DTSTART;TZID=Europe/Madrid:20261205T210000
 DTEND;TZID=Europe/Madrid:20261205T230000
 SUMMARY:Casademont Zaragoza - 🦁🏀 Río Breogán
@@ -346,23 +308,19 @@ LOCATION:Pabellón Príncipe Felipe\, Avenida Cesáreo Alierta\, 120\, 5001
  3 Zaragoza\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Casademont Zaragoza - 🦁🏀 Río Breogán\\nÚltimos enfrent
- amientos (Liga Endesa):\\n29/05/2026 | Liga Endesa 2025-26 J? | 🦁🏀 R
- ío Breogán 94-95 Casademont Zaragoza | https://acb.com/es/liga/calendari
- o?temporada=90\\n18/10/2025 | Liga Endesa 2025-26 J? | Casademont Zaragoza
-  84-88 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempora
- da=90\\n20/04/2025 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 90-85
-  Casademont Zaragoza | https://acb.com/es/liga/calendario?temporada=89\\n0
- 2/11/2024 | Liga Endesa 2024-25 J? | Casademont Zaragoza 111-53 🦁🏀 R
- ío Breogán | https://acb.com/es/liga/calendario?temporada=89\\n03/02/202
- 4 | Liga Endesa 2023-24 J? | Casademont Zaragoza 63-61 🦁🏀 Río Breog
- án | https://acb.com/es/liga/calendario?temporada=88\\n26/11/2023 | Liga 
- Endesa 2023-24 J? | 🦁🏀 Río Breogán 82-77 Casademont Zaragoza | htt
- ps://acb.com/es/liga/calendario?temporada=88\\nCuriosidad: margen mínimo 
- 1 pts (29/05/2026\, 2025-26\, 94-95\, https://acb.com/es/liga/calendario?t
- emporada=90)\\nFuente: https://acb.com/es/liga/calendario?temporada=91 | S
- ede: Pabellón Príncipe Felipe\, Avenida Cesáreo Alierta\, 120\, 50013 Z
- aragoza\, España (https://www.zaragoza.es/sede/servicio/equipamiento/942)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n29/05/2026 · 2025-26\nBreogán 94–95 Zaragoza\n\n18/10/20
+ 25 · 2025-26\nZaragoza 84–88 Breogán\n\n20/04/2025 · 2024-25\nBreogá
+ n 90–85 Zaragoza\n\n02/11/2024 · 2024-25\nZaragoza 111–53 Breogán\n\
+ n03/02/2024 · 2023-24\nZaragoza 63–61 Breogán\n\n26/11/2023 · 2023-24
+ \nBreogán 82–77 Zaragoza\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECO
+ RDAR\n29/05/2026 · 2025-26\nBreogán 94–95 Zaragoza\nFue el más ajusta
+ do de esta lista: 1 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttp
+ s://acb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb
+ .com/es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es
+ /liga/calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/lig
+ a/calendario?temporada=91\n\nInformación del pabellón\nhttps://www.zarag
+ oza.es/sede/servicio/equipamiento/942
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -372,9 +330,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105470@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:e826ea0739034401
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:ec75f671b684cd09
 DTSTART;TZID=Europe/Madrid:20261210T200000
 DTEND;TZID=Europe/Madrid:20261210T220000
 SUMMARY:🦁🏀 Río Breogán - Surne Bilbao
@@ -382,23 +340,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Surne Bilbao\\nÚltimos enfrentamiento
- s (Liga Endesa):\\n14/03/2026 | Liga Endesa 2025-26 J? | Surne Bilbao 100-
- 90 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=9
- 0\\n21/12/2025 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 100-99 Su
- rne Bilbao | https://acb.com/es/liga/calendario?temporada=90\\n25/01/2025 
- | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 76-71 Surne Bilbao Baske
- t | https://acb.com/es/liga/calendario?temporada=89\\n29/09/2024 | Liga En
- desa 2024-25 J? | Surne Bilbao Basket 90-72 🦁🏀 Río Breogán | https
- ://acb.com/es/liga/calendario?temporada=89\\n30/03/2024 | Liga Endesa 2023
- -24 J? | 🦁🏀 Río Breogán 68-80 Surne Bilbao Basket | https://acb.co
- m/es/liga/calendario?temporada=88\\n09/12/2023 | Liga Endesa 2023-24 J? | 
- Surne Bilbao Basket 68-76 🦁🏀 Río Breogán | https://acb.com/es/liga
- /calendario?temporada=88\\nCuriosidad: margen mínimo 1 pts (21/12/2025\, 
- 2025-26\, 100-99\, https://acb.com/es/liga/calendario?temporada=90)\\nFuen
- te: https://acb.com/es/liga/calendario?temporada=91 | Sede: Pazo Provincia
- l dos Deportes de Lugo\, Avenida Filarmónica Lucense\, s/n\, 27002 Lugo\,
-  España (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n14/03/2026 · 2025-26\nBilbao 100–90 Breogán\n\n21/12/2025 · 2
+ 025-26\nBreogán 100–99 Bilbao\n\n25/01/2025 · 2024-25\nBreogán 76–7
+ 1 Bilbao\n\n29/09/2024 · 2024-25\nBilbao 90–72 Breogán\n\n30/03/2024 
+ · 2023-24\nBreogán 68–80 Bilbao\n\n09/12/2023 · 2023-24\nBilbao 68–
+ 76 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n21/12/2025
+  · 2025-26\nBreogán 100–99 Bilbao\nFue el más ajustado de esta lista:
+  1 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/es/li
+ ga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/liga/cale
+ ndario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calendario?
+ temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendario?temp
+ orada=91\n\nInformación del pabellón\nhttps://deputacionlugo.gal/gl/info
+ contacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -408,9 +362,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105475@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:bb17a35294d94960
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:cc406a4116016c2a
 DTSTART;TZID=Europe/Madrid:20261212T210000
 DTEND;TZID=Europe/Madrid:20261212T230000
 SUMMARY:🦁🏀 Río Breogán - Real Madrid
@@ -418,23 +372,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Real Madrid\\nÚltimos enfrentamientos
-  (Liga Endesa):\\n10/05/2026 | Liga Endesa 2025-26 J? | Real Madrid 97-101
-  🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=90\
- \n24/01/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 85-103 Real
-  Madrid | https://acb.com/es/liga/calendario?temporada=90\\n11/05/2025 | L
- iga Endesa 2024-25 J? | 🦁🏀 Río Breogán 69-79 Real Madrid | https:/
- /acb.com/es/liga/calendario?temporada=89\\n15/12/2024 | Liga Endesa 2024-2
- 5 J? | Real Madrid 106-69 🦁🏀 Río Breogán | https://acb.com/es/liga
- /calendario?temporada=89\\n11/02/2024 | Liga Endesa 2023-24 J? | 🦁🏀 
- Río Breogán 73-80 Real Madrid | https://acb.com/es/liga/calendario?tempo
- rada=88\\n03/12/2023 | Liga Endesa 2023-24 J? | Real Madrid 91-58 🦁🏀
-  Río Breogán | https://acb.com/es/liga/calendario?temporada=88\\nCuriosi
- dad: margen mínimo 4 pts (10/05/2026\, 2025-26\, 97-101\, https://acb.com
- /es/liga/calendario?temporada=90)\\nFuente: https://acb.com/es/liga/calend
- ario?temporada=91 | Sede: Pazo Provincial dos Deportes de Lugo\, Avenida F
- ilarmónica Lucense\, s/n\, 27002 Lugo\, España (https://deputacionlugo.g
- al/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n10/05/2026 · 2025-26\nReal Madrid 97–101 Breogán\n\n24/01/2026
+  · 2025-26\nBreogán 85–103 Real Madrid\n\n11/05/2025 · 2024-25\nBreog
+ án 69–79 Real Madrid\n\n15/12/2024 · 2024-25\nReal Madrid 106–69 Bre
+ ogán\n\n11/02/2024 · 2023-24\nBreogán 73–80 Real Madrid\n\n03/12/2023
+  · 2023-24\nReal Madrid 91–58 Breogán\n\nSolo liga regular ACB.\n\nPAR
+ TIDO PARA RECORDAR\n10/05/2026 · 2025-26\nReal Madrid 97–101 Breogán\n
+ Fue el más ajustado de esta lista: 4 puntos de diferencia.\n\nFUENTES\nAC
+ B · 2025-26\nhttps://acb.com/es/liga/calendario?temporada=90\n\nACB · 20
+ 24-25\nhttps://acb.com/es/liga/calendario?temporada=89\n\nACB · 2023-24\n
+ https://acb.com/es/liga/calendario?temporada=88\n\nCalendario actual\nhttp
+ s://acb.com/es/liga/calendario?temporada=91\n\nInformación del pabellón\
+ nhttps://deputacionlugo.gal/gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -444,9 +394,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105485@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:dc645687b2dd5459
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:cb5a48700f01b8ac
 DTSTART;TZID=Europe/Madrid:20261219T210000
 DTEND;TZID=Europe/Madrid:20261219T230000
 SUMMARY:iLERNA Lleida - 🦁🏀 Río Breogán
@@ -454,20 +404,18 @@ LOCATION:Espai Fruita Barris Nord\, Avinguda Prat de la Riba\, 113\, 25005
  Lleida\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:iLERNA Lleida - 🦁🏀 Río Breogán\\nÚltimos enfrentamient
- os (Liga Endesa):\\n13/05/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Br
- eogán 114-87 Ilerna Lleida | https://acb.com/es/liga/calendario?temporada
- =90\\n04/10/2025 | Liga Endesa 2025-26 J? | Ilerna Lleida 87-68 🦁🏀 R
- ío Breogán | https://acb.com/es/liga/calendario?temporada=90\\n05/04/202
- 5 | Liga Endesa 2024-25 J? | Hiopos Lleida 94-81 🦁🏀 Río Breogán | 
- https://acb.com/es/liga/calendario?temporada=89\\n27/10/2024 | Liga Endesa
-  2024-25 J? | 🦁🏀 Río Breogán 77-81 Hiopos Lleida | https://acb.com
- /es/liga/calendario?temporada=89\\nCuriosidad: margen mínimo 4 pts (27/10
- /2024\, 2024-25\, 77-81\, https://acb.com/es/liga/calendario?temporada=89)
- \\nFuente: https://acb.com/es/liga/calendario?temporada=91 | Sede: Espai F
- ruita Barris Nord\, Avinguda Prat de la Riba\, 113\, 25005 Lleida\, Españ
- a (https://www.paeria.cat/ca/ciutat/directori/pavello-municipal-barris-nor
- d)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nENFRENTAMIENTO
+ S ANTERIORES (4)\n13/05/2026 · 2025-26\nBreogán 114–87 Lleida\n\n04/10
+ /2025 · 2025-26\nLleida 87–68 Breogán\n\n05/04/2025 · 2024-25\nLleida
+  94–81 Breogán\n\n27/10/2024 · 2024-25\nBreogán 77–81 Lleida\n\nSol
+ o liga regular ACB.\nSolo hay 4 encuentros anteriores verificados en los d
+ atos consultados.\n\nPARTIDO PARA RECORDAR\n27/10/2024 · 2024-25\nBreogá
+ n 77–81 Lleida\nFue el más ajustado de esta lista: 4 puntos de diferenc
+ ia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/es/liga/calendario?tempora
+ da=90\n\nACB · 2024-25\nhttps://acb.com/es/liga/calendario?temporada=89\n
+ \nCalendario actual\nhttps://acb.com/es/liga/calendario?temporada=91\n\nIn
+ formación del pabellón\nhttps://www.paeria.cat/ca/ciutat/directori/pavel
+ lo-municipal-barris-nord
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -477,9 +425,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105493@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:423bbf59db4dafeb
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:3f92780d4780b759
 DTSTART;TZID=Europe/Madrid:20261227T120000
 DTEND;TZID=Europe/Madrid:20261227T140000
 SUMMARY:Kosner Baskonia - 🦁🏀 Río Breogán
@@ -487,23 +435,19 @@ LOCATION:Fernando Buesa Arena\, Carretera Zurbano\, s/n\, 01013 Vitoria-Gas
  teiz (Álava)\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Kosner Baskonia - 🦁🏀 Río Breogán\\nÚltimos enfrentamie
- ntos (Liga Endesa):\\n03/05/2026 | Liga Endesa 2025-26 J? | Kosner Baskoni
- a 112-84 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempo
- rada=90\\n29/12/2025 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 100
- -103 Kosner Baskonia | https://acb.com/es/liga/calendario?temporada=90\\n3
- 0/03/2025 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 88-82 Baskonia
-  | https://acb.com/es/liga/calendario?temporada=89\\n19/01/2025 | Liga End
- esa 2024-25 J? | Baskonia 97-91 🦁🏀 Río Breogán | https://acb.com/e
- s/liga/calendario?temporada=89\\n14/04/2024 | Liga Endesa 2023-24 J? | Bas
- konia 76-74 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?te
- mporada=88\\n24/09/2023 | Liga Endesa 2023-24 J? | 🦁🏀 Río Breogán 
- 79-88 Baskonia | https://acb.com/es/liga/calendario?temporada=88\\nCuriosi
- dad: margen mínimo 2 pts (14/04/2024\, 2023-24\, 76-74\, https://acb.com/
- es/liga/calendario?temporada=88)\\nFuente: https://acb.com/es/liga/calenda
- rio?temporada=91 | Sede: Fernando Buesa Arena\, Carretera Zurbano\, s/n\, 
- 01013 Vitoria-Gasteiz (Álava)\, España (https://buesa-arena.com/contacto
- /)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n03/05/2026 · 2025-26\nBaskonia 112–84 Breogán\n\n29/12/2
+ 025 · 2025-26\nBreogán 100–103 Baskonia\n\n30/03/2025 · 2024-25\nBreo
+ gán 88–82 Baskonia\n\n19/01/2025 · 2024-25\nBaskonia 97–91 Breogán\
+ n\n14/04/2024 · 2023-24\nBaskonia 76–74 Breogán\n\n24/09/2023 · 2023-
+ 24\nBreogán 79–88 Baskonia\n\nSolo liga regular ACB.\n\nPARTIDO PARA RE
+ CORDAR\n14/04/2024 · 2023-24\nBaskonia 76–74 Breogán\nFue el más ajus
+ tado de esta lista: 2 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nht
+ tps://acb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://a
+ cb.com/es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/
+ es/liga/calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/l
+ iga/calendario?temporada=91\n\nInformación del pabellón\nhttps://buesa-a
+ rena.com/contacto/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -513,9 +457,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105502@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:fd1c25bc801b1d1f
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:3e6fd67b0826fa9f
 DTSTART;TZID=Europe/Madrid:20261230T180000
 DTEND;TZID=Europe/Madrid:20261230T200000
 SUMMARY:🦁🏀 Río Breogán - Leyma Coruña
@@ -523,16 +467,15 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Leyma Coruña\\nÚltimos enfrentamient
- os (Liga Endesa):\\n16/03/2025 | Liga Endesa 2024-25 J? | Leyma Coruña 98
- -106 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada
- =89\\n12/01/2025 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 83-80 L
- eyma Coruña | https://acb.com/es/liga/calendario?temporada=89\\nCuriosida
- d: margen mínimo 3 pts (12/01/2025\, 2024-25\, 83-80\, https://acb.com/es
- /liga/calendario?temporada=89)\\nFuente: https://acb.com/es/liga/calendari
- o?temporada=91 | Sede: Pazo Provincial dos Deportes de Lugo\, Avenida Fila
- rmónica Lucense\, s/n\, 27002 Lugo\, España (https://deputacionlugo.gal/
- gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nENFRENTAMIENTOS ANTE
+ RIORES (2)\n16/03/2025 · 2024-25\nCoruña 98–106 Breogán\n\n12/01/2025
+  · 2024-25\nBreogán 83–80 Coruña\n\nSolo liga regular ACB.\nSolo hay 
+ 2 encuentros anteriores verificados en los datos consultados.\n\nPARTIDO P
+ ARA RECORDAR\n12/01/2025 · 2024-25\nBreogán 83–80 Coruña\nFue el más
+  ajustado de esta lista: 3 puntos de diferencia.\n\nFUENTES\nACB · 2024-2
+ 5\nhttps://acb.com/es/liga/calendario?temporada=89\n\nCalendario actual\nh
+ ttps://acb.com/es/liga/calendario?temporada=91\n\nInformación del pabell
+ ón\nhttps://deputacionlugo.gal/gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -542,9 +485,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105513@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:7da2ea2b9026557d
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:862c00396ee10c21
 DTSTART;TZID=Europe/Madrid:20270103T120000
 DTEND;TZID=Europe/Madrid:20270103T140000
 SUMMARY:🦁🏀 Río Breogán - UCAM Murcia
@@ -552,23 +495,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - UCAM Murcia\\nÚltimos enfrentamientos
-  (Liga Endesa):\\n07/02/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breo
- gán 95-106 UCAM Murcia | https://acb.com/es/liga/calendario?temporada=90\
- \n16/11/2025 | Liga Endesa 2025-26 J? | UCAM Murcia 83-96 🦁🏀 Río Br
- eogán | https://acb.com/es/liga/calendario?temporada=90\\n22/03/2025 | Li
- ga Endesa 2024-25 J? | 🦁🏀 Río Breogán 70-86 UCAM Murcia | https://
- acb.com/es/liga/calendario?temporada=89\\n16/11/2024 | Liga Endesa 2024-25
-  J? | UCAM Murcia 79-63 🦁🏀 Río Breogán | https://acb.com/es/liga/c
- alendario?temporada=89\\n12/05/2024 | Liga Endesa 2023-24 J? | UCAM Murcia
-  68-61 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempora
- da=88\\n17/12/2023 | Liga Endesa 2023-24 J? | 🦁🏀 Río Breogán 74-83
-  UCAM Murcia | https://acb.com/es/liga/calendario?temporada=88\\nCuriosida
- d: margen mínimo 7 pts (12/05/2024\, 2023-24\, 68-61\, https://acb.com/es
- /liga/calendario?temporada=88)\\nFuente: https://acb.com/es/liga/calendari
- o?temporada=91 | Sede: Pazo Provincial dos Deportes de Lugo\, Avenida Fila
- rmónica Lucense\, s/n\, 27002 Lugo\, España (https://deputacionlugo.gal/
- gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n07/02/2026 · 2025-26\nBreogán 95–106 Murcia\n\n16/11/2025 · 2
+ 025-26\nMurcia 83–96 Breogán\n\n22/03/2025 · 2024-25\nBreogán 70–86
+  Murcia\n\n16/11/2024 · 2024-25\nMurcia 79–63 Breogán\n\n12/05/2024 ·
+  2023-24\nMurcia 68–61 Breogán\n\n17/12/2023 · 2023-24\nBreogán 74–
+ 83 Murcia\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n12/05/2024 
+ · 2023-24\nMurcia 68–61 Breogán\nFue el más ajustado de esta lista: 7
+  puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/es/liga
+ /calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/liga/calend
+ ario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calendario?te
+ mporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendario?tempor
+ ada=91\n\nInformación del pabellón\nhttps://deputacionlugo.gal/gl/infoco
+ ntacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -578,9 +517,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105526@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:c27096cc8fccc845
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:bd801a15475841b0
 DTSTART;TZID=Europe/Madrid:20270110T190000
 DTEND;TZID=Europe/Madrid:20270110T210000
 SUMMARY:La Laguna Tenerife - 🦁🏀 Río Breogán
@@ -588,24 +527,19 @@ LOCATION:Pabellón de Deportes de Tenerife Santiago Martín\, Calle Las Mer
  cedes\, s/n\, 38108 La Laguna (Tenerife)\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:La Laguna Tenerife - 🦁🏀 Río Breogán\\nÚltimos enfrenta
- mientos (Liga Endesa):\\n14/02/2026 | Liga Endesa 2025-26 J? | La Laguna T
- enerife 90-81 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?
- temporada=90\\n13/12/2025 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogá
- n 96-108 La Laguna Tenerife | https://acb.com/es/liga/calendario?temporada
- =90\\n02/02/2025 | Liga Endesa 2024-25 J? | La Laguna Tenerife 96-83 🦁
- 🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=89\\n07/
- 11/2024 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 78-79 La Laguna 
- Tenerife | https://acb.com/es/liga/calendario?temporada=89\\n05/05/2024 | 
- Liga Endesa 2023-24 J? | 🦁🏀 Río Breogán 76-54 La Laguna Tenerife |
-  https://acb.com/es/liga/calendario?temporada=88\\n07/10/2023 | Liga Endes
- a 2023-24 J? | La Laguna Tenerife 88-81 🦁🏀 Río Breogán | https://a
- cb.com/es/liga/calendario?temporada=88\\nCuriosidad: margen mínimo 1 pts 
- (07/11/2024\, 2024-25\, 78-79\, https://acb.com/es/liga/calendario?tempora
- da=89)\\nFuente: https://acb.com/es/liga/calendario?temporada=91 | Sede: P
- abellón de Deportes de Tenerife Santiago Martín\, Calle Las Mercedes\, s
- /n\, 38108 La Laguna (Tenerife)\, España (https://www.tenerife.es/oficina
- s-de-atencion-ciudadana)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n14/02/2026 · 2025-26\nTenerife 90–81 Breogán\n\n13/12/20
+ 25 · 2025-26\nBreogán 96–108 Tenerife\n\n02/02/2025 · 2024-25\nTeneri
+ fe 96–83 Breogán\n\n07/11/2024 · 2024-25\nBreogán 78–79 Tenerife\n\
+ n05/05/2024 · 2023-24\nBreogán 76–54 Tenerife\n\n07/10/2023 · 2023-24
+ \nTenerife 88–81 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECO
+ RDAR\n07/11/2024 · 2024-25\nBreogán 78–79 Tenerife\nFue el más ajusta
+ do de esta lista: 1 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttp
+ s://acb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb
+ .com/es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es
+ /liga/calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/lig
+ a/calendario?temporada=91\n\nInformación del pabellón\nhttps://www.tener
+ ife.es/oficinas-de-atencion-ciudadana
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -615,9 +549,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105532@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:27ae97fa4abeb55b
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:a68a7155b5188e5f
 DTSTART;TZID=Europe/Madrid:20270117T120000
 DTEND;TZID=Europe/Madrid:20270117T140000
 SUMMARY:FIATC Girona - 🦁🏀 Río Breogán
@@ -625,23 +559,19 @@ LOCATION:Pavelló Municipal Girona - Fontajau\, Avinguda Josep Tarradellas
  i Joan\, 22-24\, 17007 Girona\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:FIATC Girona - 🦁🏀 Río Breogán\\nÚltimos enfrentamiento
- s (Liga Endesa):\\n16/05/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Bre
- ogán 95-76 FIATC Girona | https://acb.com/es/liga/calendario?temporada=90
- \\n06/12/2025 | Liga Endesa 2025-26 J? | FIATC Girona 103-80 🦁🏀 Río
-  Breogán | https://acb.com/es/liga/calendario?temporada=90\\n12/04/2025 |
-  Liga Endesa 2024-25 J? | Bàsquet Girona 91-85 🦁🏀 Río Breogán | h
- ttps://acb.com/es/liga/calendario?temporada=89\\n21/12/2024 | Liga Endesa 
- 2024-25 J? | 🦁🏀 Río Breogán 77-74 Bàsquet Girona | https://acb.co
- m/es/liga/calendario?temporada=89\\n21/01/2024 | Liga Endesa 2023-24 J? | 
- 🦁🏀 Río Breogán 93-75 Bàsquet Girona | https://acb.com/es/liga/cal
- endario?temporada=88\\n18/11/2023 | Liga Endesa 2023-24 J? | Bàsquet Giro
- na 87-83 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempo
- rada=88\\nCuriosidad: margen mínimo 3 pts (21/12/2024\, 2024-25\, 77-74\,
-  https://acb.com/es/liga/calendario?temporada=89)\\nFuente: https://acb.co
- m/es/liga/calendario?temporada=91 | Sede: Pavelló Municipal Girona - Font
- ajau\, Avinguda Josep Tarradellas i Joan\, 22-24\, 17007 Girona\, España 
- (https://web.girona.cat/esports/instal-lacions/equipaments/pavellons)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n16/05/2026 · 2025-26\nBreogán 95–76 Girona\n\n06/12/2025
+  · 2025-26\nGirona 103–80 Breogán\n\n12/04/2025 · 2024-25\nGirona 91
+ –85 Breogán\n\n21/12/2024 · 2024-25\nBreogán 77–74 Girona\n\n21/01/
+ 2024 · 2023-24\nBreogán 93–75 Girona\n\n18/11/2023 · 2023-24\nGirona 
+ 87–83 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n21/12
+ /2024 · 2024-25\nBreogán 77–74 Girona\nFue el más ajustado de esta li
+ sta: 3 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/e
+ s/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/liga/
+ calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calenda
+ rio?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendario?
+ temporada=91\n\nInformación del pabellón\nhttps://web.girona.cat/esports
+ /instal-lacions/equipaments/pavellons
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -651,9 +581,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105544@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:5561ecaa99060dcb
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:dcf471cacab1b844
 DTSTART;TZID=Europe/Madrid:20270124T180000
 DTEND;TZID=Europe/Madrid:20270124T200000
 SUMMARY:🦁🏀 Río Breogán - Valencia Basket
@@ -661,23 +591,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Valencia Basket\\nÚltimos enfrentamie
- ntos (Liga Endesa):\\n05/04/2026 | Liga Endesa 2025-26 J? | Valencia Baske
- t 105-88 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempo
- rada=90\\n12/10/2025 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 90-
- 113 Valencia Basket | https://acb.com/es/liga/calendario?temporada=90\\n30
- /05/2025 | Liga Endesa 2024-25 J? | Valencia Basket 108-61 🦁🏀 Río B
- reogán | https://acb.com/es/liga/calendario?temporada=89\\n13/10/2024 | L
- iga Endesa 2024-25 J? | 🦁🏀 Río Breogán 75-87 Valencia Basket | htt
- ps://acb.com/es/liga/calendario?temporada=89\\n14/01/2024 | Liga Endesa 20
- 23-24 J? | Valencia Basket 88-80 🦁🏀 Río Breogán | https://acb.com/
- es/liga/calendario?temporada=88\\n15/10/2023 | Liga Endesa 2023-24 J? | 
- 🦁🏀 Río Breogán 59-61 Valencia Basket | https://acb.com/es/liga/cal
- endario?temporada=88\\nCuriosidad: margen mínimo 2 pts (15/10/2023\, 2023
- -24\, 59-61\, https://acb.com/es/liga/calendario?temporada=88)\\nFuente: h
- ttps://acb.com/es/liga/calendario?temporada=91 | Sede: Pazo Provincial dos
-  Deportes de Lugo\, Avenida Filarmónica Lucense\, s/n\, 27002 Lugo\, Espa
- ña (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n05/04/2026 · 2025-26\nValencia 105–88 Breogán\n\n12/10/2025 ·
+  2025-26\nBreogán 90–113 Valencia\n\n30/05/2025 · 2024-25\nValencia 10
+ 8–61 Breogán\n\n13/10/2024 · 2024-25\nBreogán 75–87 Valencia\n\n14/
+ 01/2024 · 2023-24\nValencia 88–80 Breogán\n\n15/10/2023 · 2023-24\nBr
+ eogán 59–61 Valencia\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR
+ \n15/10/2023 · 2023-24\nBreogán 59–61 Valencia\nFue el más ajustado d
+ e esta lista: 2 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://
+ acb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com
+ /es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/lig
+ a/calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/ca
+ lendario?temporada=91\n\nInformación del pabellón\nhttps://deputacionlug
+ o.gal/gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -687,9 +613,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105551@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:05d32cbfe887b4d2
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:58ba3268d621cd38
 DTSTART;TZID=Europe/Madrid:20270131T123000
 DTEND;TZID=Europe/Madrid:20270131T143000
 SUMMARY:Unicaja - 🦁🏀 Río Breogán
@@ -697,23 +623,19 @@ LOCATION:Palacio de Deportes José María Martín Carpena\, Avenida Miguel
  Mérida Nicolich\, 2\, 29004 Málaga\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Unicaja - 🦁🏀 Río Breogán\\nÚltimos enfrentamientos (Li
- ga Endesa):\\n23/05/2026 | Liga Endesa 2025-26 J? | Unicaja 101-83 🦁
- 🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=90\\n03/
- 01/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 98-82 Unicaja | 
- https://acb.com/es/liga/calendario?temporada=90\\n08/02/2025 | Liga Endesa
-  2024-25 J? | 🦁🏀 Río Breogán 81-79 Unicaja | https://acb.com/es/li
- ga/calendario?temporada=89\\n28/12/2024 | Liga Endesa 2024-25 J? | Unicaja
-  86-77 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempora
- da=89\\n09/03/2024 | Liga Endesa 2023-24 J? | 🦁🏀 Río Breogán 65-76
-  Unicaja | https://acb.com/es/liga/calendario?temporada=88\\n28/10/2023 | 
- Liga Endesa 2023-24 J? | Unicaja 87-70 🦁🏀 Río Breogán | https://ac
- b.com/es/liga/calendario?temporada=88\\nCuriosidad: margen mínimo 2 pts (
- 08/02/2025\, 2024-25\, 81-79\, https://acb.com/es/liga/calendario?temporad
- a=89)\\nFuente: https://acb.com/es/liga/calendario?temporada=91 | Sede: Pa
- lacio de Deportes José María Martín Carpena\, Avenida Miguel Mérida Ni
- colich\, 2\, 29004 Málaga\, España (https://www.unicajabaloncesto.com/co
- ntacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n23/05/2026 · 2025-26\nUnicaja 101–83 Breogán\n\n03/01/20
+ 26 · 2025-26\nBreogán 98–82 Unicaja\n\n08/02/2025 · 2024-25\nBreogán
+  81–79 Unicaja\n\n28/12/2024 · 2024-25\nUnicaja 86–77 Breogán\n\n09/
+ 03/2024 · 2023-24\nBreogán 65–76 Unicaja\n\n28/10/2023 · 2023-24\nUni
+ caja 87–70 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n
+ 08/02/2025 · 2024-25\nBreogán 81–79 Unicaja\nFue el más ajustado de e
+ sta lista: 2 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb
+ .com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es
+ /liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/c
+ alendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calen
+ dario?temporada=91\n\nInformación del pabellón\nhttps://www.unicajabalon
+ cesto.com/contacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -723,9 +645,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105558@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:29be1a0e97e312a2
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:3662737d15980207
 DTSTART;TZID=Europe/Madrid:20270207T120000
 DTEND;TZID=Europe/Madrid:20270207T140000
 SUMMARY:🦁🏀 Río Breogán - iLERNA Lleida
@@ -733,19 +655,17 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - iLERNA Lleida\\nÚltimos enfrentamient
- os (Liga Endesa):\\n13/05/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Br
- eogán 114-87 Ilerna Lleida | https://acb.com/es/liga/calendario?temporada
- =90\\n04/10/2025 | Liga Endesa 2025-26 J? | Ilerna Lleida 87-68 🦁🏀 R
- ío Breogán | https://acb.com/es/liga/calendario?temporada=90\\n05/04/202
- 5 | Liga Endesa 2024-25 J? | Hiopos Lleida 94-81 🦁🏀 Río Breogán | 
- https://acb.com/es/liga/calendario?temporada=89\\n27/10/2024 | Liga Endesa
-  2024-25 J? | 🦁🏀 Río Breogán 77-81 Hiopos Lleida | https://acb.com
- /es/liga/calendario?temporada=89\\nCuriosidad: margen mínimo 4 pts (27/10
- /2024\, 2024-25\, 77-81\, https://acb.com/es/liga/calendario?temporada=89)
- \\nFuente: https://acb.com/es/liga/calendario?temporada=91 | Sede: Pazo Pr
- ovincial dos Deportes de Lugo\, Avenida Filarmónica Lucense\, s/n\, 27002
-  Lugo\, España (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nENFRENTAMIENTOS ANTE
+ RIORES (4)\n13/05/2026 · 2025-26\nBreogán 114–87 Lleida\n\n04/10/2025 
+ · 2025-26\nLleida 87–68 Breogán\n\n05/04/2025 · 2024-25\nLleida 94–
+ 81 Breogán\n\n27/10/2024 · 2024-25\nBreogán 77–81 Lleida\n\nSolo liga
+  regular ACB.\nSolo hay 4 encuentros anteriores verificados en los datos c
+ onsultados.\n\nPARTIDO PARA RECORDAR\n27/10/2024 · 2024-25\nBreogán 77
+ –81 Lleida\nFue el más ajustado de esta lista: 4 puntos de diferencia.\
+ n\nFUENTES\nACB · 2025-26\nhttps://acb.com/es/liga/calendario?temporada=9
+ 0\n\nACB · 2024-25\nhttps://acb.com/es/liga/calendario?temporada=89\n\nCa
+ lendario actual\nhttps://acb.com/es/liga/calendario?temporada=91\n\nInform
+ ación del pabellón\nhttps://deputacionlugo.gal/gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -755,9 +675,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105567@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:6393208c7b2c470a
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:6d0f25997b6254e7
 DTSTART;TZID=Europe/Madrid:20270214T120000
 DTEND;TZID=Europe/Madrid:20270214T140000
 SUMMARY:Asisa Joventut - 🦁🏀 Río Breogán
@@ -765,23 +685,19 @@ LOCATION:Palau Olímpic de Badalona\, Carrer de Ponent\, 143-161\, 08912 Ba
  dalona (Barcelona)\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Asisa Joventut - 🦁🏀 Río Breogán\\nÚltimos enfrentamien
- tos (Liga Endesa):\\n26/04/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río B
- reogán 93-86 Asisa Joventut | https://acb.com/es/liga/calendario?temporad
- a=90\\n27/12/2025 | Liga Endesa 2025-26 J? | Asisa Joventut 83-75 🦁🏀
-  Río Breogán | https://acb.com/es/liga/calendario?temporada=90\\n26/04/2
- 025 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 65-82 Joventut Badal
- ona | https://acb.com/es/liga/calendario?temporada=89\\n19/10/2024 | Liga 
- Endesa 2024-25 J? | Joventut Badalona 70-76 🦁🏀 Río Breogán | https
- ://acb.com/es/liga/calendario?temporada=89\\n02/03/2024 | Liga Endesa 2023
- -24 J? | Joventut Badalona 78-70 🦁🏀 Río Breogán | https://acb.com/
- es/liga/calendario?temporada=88\\n11/11/2023 | Liga Endesa 2023-24 J? | 
- 🦁🏀 Río Breogán 85-77 Joventut Badalona | https://acb.com/es/liga/c
- alendario?temporada=88\\nCuriosidad: margen mínimo 6 pts (19/10/2024\, 20
- 24-25\, 70-76\, https://acb.com/es/liga/calendario?temporada=89)\\nFuente:
-  https://acb.com/es/liga/calendario?temporada=91 | Sede: Palau Olímpic de
-  Badalona\, Carrer de Ponent\, 143-161\, 08912 Badalona (Barcelona)\, Espa
- ña (https://www.penya.com/es/inicio/contacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n26/04/2026 · 2025-26\nBreogán 93–86 Joventut\n\n27/12/20
+ 25 · 2025-26\nJoventut 83–75 Breogán\n\n26/04/2025 · 2024-25\nBreogá
+ n 65–82 Joventut\n\n19/10/2024 · 2024-25\nJoventut 70–76 Breogán\n\n
+ 02/03/2024 · 2023-24\nJoventut 78–70 Breogán\n\n11/11/2023 · 2023-24\
+ nBreogán 85–77 Joventut\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECOR
+ DAR\n19/10/2024 · 2024-25\nJoventut 70–76 Breogán\nFue el más ajustad
+ o de esta lista: 6 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps
+ ://acb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.
+ com/es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/
+ liga/calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga
+ /calendario?temporada=91\n\nInformación del pabellón\nhttps://www.penya.
+ com/es/inicio/contacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -791,9 +707,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105574@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:b4e430deb93aa351
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:623afc16804d703b
 DTSTART;TZID=Europe/Madrid:20270306T193000
 DTEND;TZID=Europe/Madrid:20270306T213000
 SUMMARY:🦁🏀 Río Breogán - Kids&Us Manresa
@@ -801,23 +717,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Kids&Us Manresa\\nÚltimos enfrentamie
- ntos (Liga Endesa):\\n28/03/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río 
- Breogán 91-78 Kids&Us Manresa | https://acb.com/es/liga/calendario?tempor
- ada=90\\n10/01/2026 | Liga Endesa 2025-26 J? | Kids&Us Manresa 104-99 🦁
- 🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=90\\n03/
- 05/2025 | Liga Endesa 2024-25 J? | BAXI Manresa 93-104 🦁🏀 Río Breog
- án | https://acb.com/es/liga/calendario?temporada=89\\n02/01/2025 | Liga 
- Endesa 2024-25 J? | 🦁🏀 Río Breogán 79-88 BAXI Manresa | https://ac
- b.com/es/liga/calendario?temporada=89\\n27/01/2024 | Liga Endesa 2023-24 J
- ? | BAXI Manresa 83-68 🦁🏀 Río Breogán | https://acb.com/es/liga/ca
- lendario?temporada=88\\n01/10/2023 | Liga Endesa 2023-24 J? | 🦁🏀 Rí
- o Breogán 85-89 BAXI Manresa | https://acb.com/es/liga/calendario?tempora
- da=88\\nCuriosidad: margen mínimo 4 pts (01/10/2023\, 2023-24\, 85-89\, h
- ttps://acb.com/es/liga/calendario?temporada=88)\\nFuente: https://acb.com/
- es/liga/calendario?temporada=91 | Sede: Pazo Provincial dos Deportes de Lu
- go\, Avenida Filarmónica Lucense\, s/n\, 27002 Lugo\, España (https://de
- putacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n28/03/2026 · 2025-26\nBreogán 91–78 Manresa\n\n10/01/2026 · 2
+ 025-26\nManresa 104–99 Breogán\n\n03/05/2025 · 2024-25\nManresa 93–1
+ 04 Breogán\n\n02/01/2025 · 2024-25\nBreogán 79–88 Manresa\n\n27/01/20
+ 24 · 2023-24\nManresa 83–68 Breogán\n\n01/10/2023 · 2023-24\nBreogán
+  85–89 Manresa\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n01/10
+ /2023 · 2023-24\nBreogán 85–89 Manresa\nFue el más ajustado de esta l
+ ista: 4 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/
+ es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/liga
+ /calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calend
+ ario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendario
+ ?temporada=91\n\nInformación del pabellón\nhttps://deputacionlugo.gal/gl
+ /infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -827,9 +739,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105588@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:0182a7145f26d355
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:c5829321458ec733
 DTSTART;TZID=Europe/Madrid:20270314T170000
 DTEND;TZID=Europe/Madrid:20270314T190000
 SUMMARY:🦁🏀 Río Breogán - Barça
@@ -837,22 +749,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Barça\\nÚltimos enfrentamientos (Lig
- a Endesa):\\n08/03/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 
- 78-109 Barça | https://acb.com/es/liga/calendario?temporada=90\\n25/10/20
- 25 | Liga Endesa 2025-26 J? | Barça 100-85 🦁🏀 Río Breogán | https
- ://acb.com/es/liga/calendario?temporada=90\\n02/03/2025 | Liga Endesa 2024
- -25 J? | Barça 102-79 🦁🏀 Río Breogán | https://acb.com/es/liga/ca
- lendario?temporada=89\\n10/11/2024 | Liga Endesa 2024-25 J? | 🦁🏀 Rí
- o Breogán 77-70 Barça | https://acb.com/es/liga/calendario?temporada=89\
- \n17/03/2024 | Liga Endesa 2023-24 J? | Barça 85-88 🦁🏀 Río Breogá
- n | https://acb.com/es/liga/calendario?temporada=88\\n05/11/2023 | Liga En
- desa 2023-24 J? | 🦁🏀 Río Breogán 63-79 Barça | https://acb.com/es
- /liga/calendario?temporada=88\\nCuriosidad: margen mínimo 3 pts (17/03/20
- 24\, 2023-24\, 85-88\, https://acb.com/es/liga/calendario?temporada=88)\\n
- Fuente: https://acb.com/es/liga/calendario?temporada=91 | Sede: Pazo Provi
- ncial dos Deportes de Lugo\, Avenida Filarmónica Lucense\, s/n\, 27002 Lu
- go\, España (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n08/03/2026 · 2025-26\nBreogán 78–109 Barça\n\n25/10/2025 · 2
+ 025-26\nBarça 100–85 Breogán\n\n02/03/2025 · 2024-25\nBarça 102–79
+  Breogán\n\n10/11/2024 · 2024-25\nBreogán 77–70 Barça\n\n17/03/2024 
+ · 2023-24\nBarça 85–88 Breogán\n\n05/11/2023 · 2023-24\nBreogán 63
+ –79 Barça\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n17/03/202
+ 4 · 2023-24\nBarça 85–88 Breogán\nFue el más ajustado de esta lista:
+  3 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/es/li
+ ga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/liga/cale
+ ndario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calendario?
+ temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendario?temp
+ orada=91\n\nInformación del pabellón\nhttps://deputacionlugo.gal/gl/info
+ contacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -862,9 +771,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105594@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:ec682641803e97c6
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:bc1a9280d52126a5
 DTSTART;TZID=Europe/Madrid:20270321T120000
 DTEND;TZID=Europe/Madrid:20270321T140000
 SUMMARY:Surne Bilbao - 🦁🏀 Río Breogán
@@ -872,23 +781,19 @@ LOCATION:Bilbao Arena\, Avenida Askatasuna\, 13\, 48003 Bilbao (Bizkaia)\,
  España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Surne Bilbao - 🦁🏀 Río Breogán\\nÚltimos enfrentamiento
- s (Liga Endesa):\\n14/03/2026 | Liga Endesa 2025-26 J? | Surne Bilbao 100-
- 90 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=9
- 0\\n21/12/2025 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 100-99 Su
- rne Bilbao | https://acb.com/es/liga/calendario?temporada=90\\n25/01/2025 
- | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 76-71 Surne Bilbao Baske
- t | https://acb.com/es/liga/calendario?temporada=89\\n29/09/2024 | Liga En
- desa 2024-25 J? | Surne Bilbao Basket 90-72 🦁🏀 Río Breogán | https
- ://acb.com/es/liga/calendario?temporada=89\\n30/03/2024 | Liga Endesa 2023
- -24 J? | 🦁🏀 Río Breogán 68-80 Surne Bilbao Basket | https://acb.co
- m/es/liga/calendario?temporada=88\\n09/12/2023 | Liga Endesa 2023-24 J? | 
- Surne Bilbao Basket 68-76 🦁🏀 Río Breogán | https://acb.com/es/liga
- /calendario?temporada=88\\nCuriosidad: margen mínimo 1 pts (21/12/2025\, 
- 2025-26\, 100-99\, https://acb.com/es/liga/calendario?temporada=90)\\nFuen
- te: https://acb.com/es/liga/calendario?temporada=91 | Sede: Bilbao Arena\,
-  Avenida Askatasuna\, 13\, 48003 Bilbao (Bizkaia)\, España (https://opebi
- lbaoekintza.bilbao.eus/contents/opebilbaoekintza/Avisos/445_0.pdf)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n14/03/2026 · 2025-26\nBilbao 100–90 Breogán\n\n21/12/202
+ 5 · 2025-26\nBreogán 100–99 Bilbao\n\n25/01/2025 · 2024-25\nBreogán 
+ 76–71 Bilbao\n\n29/09/2024 · 2024-25\nBilbao 90–72 Breogán\n\n30/03/
+ 2024 · 2023-24\nBreogán 68–80 Bilbao\n\n09/12/2023 · 2023-24\nBilbao 
+ 68–76 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n21/12
+ /2025 · 2025-26\nBreogán 100–99 Bilbao\nFue el más ajustado de esta l
+ ista: 1 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/
+ es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/liga
+ /calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calend
+ ario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendario
+ ?temporada=91\n\nInformación del pabellón\nhttps://opebilbaoekintza.bilb
+ ao.eus/contents/opebilbaoekintza/Avisos/445_0.pdf
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -898,9 +803,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105601@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:b8014a1e5badd336
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:928ca61a35066ea0
 DTSTART;TZID=Europe/Madrid:20270327T193000
 DTEND;TZID=Europe/Madrid:20270327T213000
 SUMMARY:🦁🏀 Río Breogán - La Laguna Tenerife
@@ -908,23 +813,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - La Laguna Tenerife\\nÚltimos enfrenta
- mientos (Liga Endesa):\\n14/02/2026 | Liga Endesa 2025-26 J? | La Laguna T
- enerife 90-81 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?
- temporada=90\\n13/12/2025 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogá
- n 96-108 La Laguna Tenerife | https://acb.com/es/liga/calendario?temporada
- =90\\n02/02/2025 | Liga Endesa 2024-25 J? | La Laguna Tenerife 96-83 🦁
- 🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=89\\n07/
- 11/2024 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 78-79 La Laguna 
- Tenerife | https://acb.com/es/liga/calendario?temporada=89\\n05/05/2024 | 
- Liga Endesa 2023-24 J? | 🦁🏀 Río Breogán 76-54 La Laguna Tenerife |
-  https://acb.com/es/liga/calendario?temporada=88\\n07/10/2023 | Liga Endes
- a 2023-24 J? | La Laguna Tenerife 88-81 🦁🏀 Río Breogán | https://a
- cb.com/es/liga/calendario?temporada=88\\nCuriosidad: margen mínimo 1 pts 
- (07/11/2024\, 2024-25\, 78-79\, https://acb.com/es/liga/calendario?tempora
- da=89)\\nFuente: https://acb.com/es/liga/calendario?temporada=91 | Sede: P
- azo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucense\, s/n\,
-  27002 Lugo\, España (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n14/02/2026 · 2025-26\nTenerife 90–81 Breogán\n\n13/12/2025 · 
+ 2025-26\nBreogán 96–108 Tenerife\n\n02/02/2025 · 2024-25\nTenerife 96
+ –83 Breogán\n\n07/11/2024 · 2024-25\nBreogán 78–79 Tenerife\n\n05/0
+ 5/2024 · 2023-24\nBreogán 76–54 Tenerife\n\n07/10/2023 · 2023-24\nTen
+ erife 88–81 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\
+ n07/11/2024 · 2024-25\nBreogán 78–79 Tenerife\nFue el más ajustado de
+  esta lista: 1 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://a
+ cb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/
+ es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga
+ /calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/cal
+ endario?temporada=91\n\nInformación del pabellón\nhttps://deputacionlugo
+ .gal/gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -934,33 +835,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105609@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:65eda4fe17f0c4ef
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:1aec5234b59d8fb9
 DTSTART;TZID=Europe/Madrid:20270403T180000
 DTEND;TZID=Europe/Madrid:20270403T200000
 SUMMARY:Recoletas Salud San Pablo Burgos - 🦁🏀 Río Breogán
 LOCATION:Coliseum Burgos\, Calle Chopera\, s/n\, 09006 Burgos\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Recoletas Salud San Pablo Burgos - 🦁🏀 Río Breogán\\nÚl
- timos enfrentamientos (Liga Endesa):\\n19/04/2026 | Liga Endesa 2025-26 J?
-  | Recoletas Salud San Pablo Burgos 94-99 🦁🏀 Río Breogán | https:/
- /acb.com/es/liga/calendario?temporada=90\\n22/11/2025 | Liga Endesa 2025-2
- 6 J? | 🦁🏀 Río Breogán 105-78 Recoletas Salud San Pablo Burgos | ht
- tps://acb.com/es/liga/calendario?temporada=90\\n03/04/2022 | Liga Endesa 2
- 021-22 J? | 🦁🏀 Río Breogán 105-96 Hereda San Pablo Burgos | https:
- //acb.com/es/liga/calendario?temporada=86\\n23/09/2021 | Liga Endesa 2021-
- 22 J? | Hereda San Pablo Burgos 62-87 🦁🏀 Río Breogán | https://acb
- .com/es/liga/calendario?temporada=86\\n26/05/2019 | Liga Endesa 2018-19 J?
-  | Cafés Candelas Breogán 76-95 San Pablo Burgos | https://acb.com/es/li
- ga/calendario?temporada=83\\n20/10/2018 | Liga Endesa 2018-19 J? | San Pab
- lo Burgos 92-76 Cafés Candelas Breogán | https://acb.com/es/liga/calenda
- rio?temporada=83\\nCuriosidad: margen mínimo 5 pts (19/04/2026\, 2025-26\
- , 94-99\, https://acb.com/es/liga/calendario?temporada=90)\\nFuente: https
- ://acb.com/es/liga/calendario?temporada=91 | Sede: Coliseum Burgos\, Calle
-  Chopera\, s/n\, 09006 Burgos\, España (https://www.aytoburgos.es/-/colis
- eum-burgos)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nENFRENTAMIENTO
+ S ANTERIORES (4)\n19/04/2026 · 2025-26\nBurgos 94–99 Breogán\n\n22/11/
+ 2025 · 2025-26\nBreogán 105–78 Burgos\n\n03/04/2022 · 2021-22\nBreog
+ án 105–96 Burgos\n\n23/09/2021 · 2021-22\nBurgos 62–87 Breogán\n\nS
+ olo liga regular ACB.\nSolo hay 4 encuentros anteriores verificados en los
+  datos consultados.\n\nPARTIDO PARA RECORDAR\n19/04/2026 · 2025-26\nBurgo
+ s 94–99 Breogán\nFue el más ajustado de esta lista: 5 puntos de difere
+ ncia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/es/liga/calendario?tempo
+ rada=90\n\nACB · 2021-22\nhttps://acb.com/es/liga/calendario?temporada=86
+ \n\nCalendario actual\nhttps://acb.com/es/liga/calendario?temporada=91\n\n
+ Información del pabellón\nhttps://www.aytoburgos.es/-/coliseum-burgos
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -971,9 +865,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105621@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:7f4bb2a146992f0f
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:e343a6d47ffab451
 DTSTART;TZID=Europe/Madrid:20270411T120000
 DTEND;TZID=Europe/Madrid:20270411T140000
 SUMMARY:🦁🏀 Río Breogán - Casademont Zaragoza
@@ -981,23 +875,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Casademont Zaragoza\\nÚltimos enfrent
- amientos (Liga Endesa):\\n29/05/2026 | Liga Endesa 2025-26 J? | 🦁🏀 R
- ío Breogán 94-95 Casademont Zaragoza | https://acb.com/es/liga/calendari
- o?temporada=90\\n18/10/2025 | Liga Endesa 2025-26 J? | Casademont Zaragoza
-  84-88 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempora
- da=90\\n20/04/2025 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 90-85
-  Casademont Zaragoza | https://acb.com/es/liga/calendario?temporada=89\\n0
- 2/11/2024 | Liga Endesa 2024-25 J? | Casademont Zaragoza 111-53 🦁🏀 R
- ío Breogán | https://acb.com/es/liga/calendario?temporada=89\\n03/02/202
- 4 | Liga Endesa 2023-24 J? | Casademont Zaragoza 63-61 🦁🏀 Río Breog
- án | https://acb.com/es/liga/calendario?temporada=88\\n26/11/2023 | Liga 
- Endesa 2023-24 J? | 🦁🏀 Río Breogán 82-77 Casademont Zaragoza | htt
- ps://acb.com/es/liga/calendario?temporada=88\\nCuriosidad: margen mínimo 
- 1 pts (29/05/2026\, 2025-26\, 94-95\, https://acb.com/es/liga/calendario?t
- emporada=90)\\nFuente: https://acb.com/es/liga/calendario?temporada=91 | S
- ede: Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucense\,
-  s/n\, 27002 Lugo\, España (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n29/05/2026 · 2025-26\nBreogán 94–95 Zaragoza\n\n18/10/2025 · 
+ 2025-26\nZaragoza 84–88 Breogán\n\n20/04/2025 · 2024-25\nBreogán 90
+ –85 Zaragoza\n\n02/11/2024 · 2024-25\nZaragoza 111–53 Breogán\n\n03/
+ 02/2024 · 2023-24\nZaragoza 63–61 Breogán\n\n26/11/2023 · 2023-24\nBr
+ eogán 82–77 Zaragoza\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR
+ \n29/05/2026 · 2025-26\nBreogán 94–95 Zaragoza\nFue el más ajustado d
+ e esta lista: 1 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://
+ acb.com/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com
+ /es/liga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/lig
+ a/calendario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/ca
+ lendario?temporada=91\n\nInformación del pabellón\nhttps://deputacionlug
+ o.gal/gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -1007,32 +897,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105632@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:1ad880414436cf6c
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:d8776d7032788ecf
 DTSTART;TZID=Europe/Madrid:20270418T123000
 DTEND;TZID=Europe/Madrid:20270418T143000
 SUMMARY:Real Madrid - 🦁🏀 Río Breogán
 LOCATION:Movistar Arena\, Avenida Felipe II\, s/n\, 28009 Madrid\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Real Madrid - 🦁🏀 Río Breogán\\nÚltimos enfrentamientos
-  (Liga Endesa):\\n10/05/2026 | Liga Endesa 2025-26 J? | Real Madrid 97-101
-  🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=90\
- \n24/01/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breogán 85-103 Real
-  Madrid | https://acb.com/es/liga/calendario?temporada=90\\n11/05/2025 | L
- iga Endesa 2024-25 J? | 🦁🏀 Río Breogán 69-79 Real Madrid | https:/
- /acb.com/es/liga/calendario?temporada=89\\n15/12/2024 | Liga Endesa 2024-2
- 5 J? | Real Madrid 106-69 🦁🏀 Río Breogán | https://acb.com/es/liga
- /calendario?temporada=89\\n11/02/2024 | Liga Endesa 2023-24 J? | 🦁🏀 
- Río Breogán 73-80 Real Madrid | https://acb.com/es/liga/calendario?tempo
- rada=88\\n03/12/2023 | Liga Endesa 2023-24 J? | Real Madrid 91-58 🦁🏀
-  Río Breogán | https://acb.com/es/liga/calendario?temporada=88\\nCuriosi
- dad: margen mínimo 4 pts (10/05/2026\, 2025-26\, 97-101\, https://acb.com
- /es/liga/calendario?temporada=90)\\nFuente: https://acb.com/es/liga/calend
- ario?temporada=91 | Sede: Movistar Arena\, Avenida Felipe II\, s/n\, 28009
-  Madrid\, España (https://www.realmadrid.com/es-ES/el-club/movistar-arena
- )
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n10/05/2026 · 2025-26\nReal Madrid 97–101 Breogán\n\n24/0
+ 1/2026 · 2025-26\nBreogán 85–103 Real Madrid\n\n11/05/2025 · 2024-25\
+ nBreogán 69–79 Real Madrid\n\n15/12/2024 · 2024-25\nReal Madrid 106–
+ 69 Breogán\n\n11/02/2024 · 2023-24\nBreogán 73–80 Real Madrid\n\n03/1
+ 2/2023 · 2023-24\nReal Madrid 91–58 Breogán\n\nSolo liga regular ACB.\
+ n\nPARTIDO PARA RECORDAR\n10/05/2026 · 2025-26\nReal Madrid 97–101 Breo
+ gán\nFue el más ajustado de esta lista: 4 puntos de diferencia.\n\nFUENT
+ ES\nACB · 2025-26\nhttps://acb.com/es/liga/calendario?temporada=90\n\nACB
+  · 2024-25\nhttps://acb.com/es/liga/calendario?temporada=89\n\nACB · 202
+ 3-24\nhttps://acb.com/es/liga/calendario?temporada=88\n\nCalendario actual
+ \nhttps://acb.com/es/liga/calendario?temporada=91\n\nInformación del pabe
+ llón\nhttps://www.realmadrid.com/es-ES/el-club/movistar-arena
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -1042,9 +928,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105642@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:31345dbefb476d6f
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:8c13fec5da6198ef
 DTSTART;TZID=Europe/Madrid:20270425T170000
 DTEND;TZID=Europe/Madrid:20270425T190000
 SUMMARY:UCAM Murcia - 🦁🏀 Río Breogán
@@ -1052,23 +938,19 @@ LOCATION:Palacio de los Deportes de Murcia\, Avenida del Rocío\, 7\, 30007
   Murcia\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:UCAM Murcia - 🦁🏀 Río Breogán\\nÚltimos enfrentamientos
-  (Liga Endesa):\\n07/02/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río Breo
- gán 95-106 UCAM Murcia | https://acb.com/es/liga/calendario?temporada=90\
- \n16/11/2025 | Liga Endesa 2025-26 J? | UCAM Murcia 83-96 🦁🏀 Río Br
- eogán | https://acb.com/es/liga/calendario?temporada=90\\n22/03/2025 | Li
- ga Endesa 2024-25 J? | 🦁🏀 Río Breogán 70-86 UCAM Murcia | https://
- acb.com/es/liga/calendario?temporada=89\\n16/11/2024 | Liga Endesa 2024-25
-  J? | UCAM Murcia 79-63 🦁🏀 Río Breogán | https://acb.com/es/liga/c
- alendario?temporada=89\\n12/05/2024 | Liga Endesa 2023-24 J? | UCAM Murcia
-  68-61 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?tempora
- da=88\\n17/12/2023 | Liga Endesa 2023-24 J? | 🦁🏀 Río Breogán 74-83
-  UCAM Murcia | https://acb.com/es/liga/calendario?temporada=88\\nCuriosida
- d: margen mínimo 7 pts (12/05/2024\, 2023-24\, 68-61\, https://acb.com/es
- /liga/calendario?temporada=88)\\nFuente: https://acb.com/es/liga/calendari
- o?temporada=91 | Sede: Palacio de los Deportes de Murcia\, Avenida del Roc
- ío\, 7\, 30007 Murcia\, España (https://www.ucamdeportes.com/ucamcb/el-c
- lub/contacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nÚLTIMOS 6 ENF
+ RENTAMIENTOS\n07/02/2026 · 2025-26\nBreogán 95–106 Murcia\n\n16/11/202
+ 5 · 2025-26\nMurcia 83–96 Breogán\n\n22/03/2025 · 2024-25\nBreogán 7
+ 0–86 Murcia\n\n16/11/2024 · 2024-25\nMurcia 79–63 Breogán\n\n12/05/2
+ 024 · 2023-24\nMurcia 68–61 Breogán\n\n17/12/2023 · 2023-24\nBreogán
+  74–83 Murcia\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n12/05/
+ 2024 · 2023-24\nMurcia 68–61 Breogán\nFue el más ajustado de esta lis
+ ta: 7 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.com/es
+ /liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/liga/c
+ alendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/calendar
+ io?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calendario?t
+ emporada=91\n\nInformación del pabellón\nhttps://www.ucamdeportes.com/uc
+ amcb/el-club/contacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -1078,9 +960,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105649@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:bb670aaa571aafcf
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:3dd6c52f83279eef
 DTSTART;TZID=Europe/Madrid:20270502T120000
 DTEND;TZID=Europe/Madrid:20270502T140000
 SUMMARY:🦁🏀 Río Breogán - Monbus Obradoiro
@@ -1088,23 +970,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - Monbus Obradoiro\\nÚltimos enfrentami
- entos (Liga Endesa):\\n23/03/2024 | Liga Endesa 2023-24 J? | Monbus Obrado
- iro 83-72 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temp
- orada=88\\n23/12/2023 | Liga Endesa 2023-24 J? | 🦁🏀 Río Breogán 88
- -90 Monbus Obradoiro | https://acb.com/es/liga/calendario?temporada=88\\n2
- 5/03/2023 | Liga Endesa 2022-23 J? | Monbus Obradoiro 67-74 🦁🏀 Río 
- Breogán | https://acb.com/es/liga/calendario?temporada=87\\n07/01/2023 | 
- Liga Endesa 2022-23 J? | 🦁🏀 Río Breogán 64-59 Monbus Obradoiro | h
- ttps://acb.com/es/liga/calendario?temporada=87\\n26/03/2022 | Liga Endesa 
- 2021-22 J? | 🦁🏀 Río Breogán 80-78 Monbus Obradoiro | https://acb.c
- om/es/liga/calendario?temporada=86\\n23/01/2022 | Liga Endesa 2021-22 J? |
-  Monbus Obradoiro 100-83 🦁🏀 Río Breogán | https://acb.com/es/liga/
- calendario?temporada=86\\nCuriosidad: margen mínimo 2 pts (23/12/2023\, 2
- 023-24\, 88-90\, https://acb.com/es/liga/calendario?temporada=88)\\nFuente
- : https://acb.com/es/liga/calendario?temporada=91 | Sede: Pazo Provincial 
- dos Deportes de Lugo\, Avenida Filarmónica Lucense\, s/n\, 27002 Lugo\, E
- spaña (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n23/03/2024 · 2023-24\nObradoiro 83–72 Breogán\n\n23/12/2023 ·
+  2023-24\nBreogán 88–90 Obradoiro\n\n25/03/2023 · 2022-23\nObradoiro 6
+ 7–74 Breogán\n\n07/01/2023 · 2022-23\nBreogán 64–59 Obradoiro\n\n26
+ /03/2022 · 2021-22\nBreogán 80–78 Obradoiro\n\n23/01/2022 · 2021-22\n
+ Obradoiro 100–83 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECO
+ RDAR\n23/12/2023 · 2023-24\nBreogán 88–90 Obradoiro\nFue el más ajust
+ ado de esta lista: 2 puntos de diferencia.\n\nFUENTES\nACB · 2023-24\nhtt
+ ps://acb.com/es/liga/calendario?temporada=88\n\nACB · 2022-23\nhttps://ac
+ b.com/es/liga/calendario?temporada=87\n\nACB · 2021-22\nhttps://acb.com/e
+ s/liga/calendario?temporada=86\n\nCalendario actual\nhttps://acb.com/es/li
+ ga/calendario?temporada=91\n\nInformación del pabellón\nhttps://deputaci
+ onlugo.gal/gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -1114,9 +992,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105654@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:b3025ae42f58a723
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:4ee250db087fb5fd
 DTSTART;TZID=Europe/Madrid:20270508T180000
 DTEND;TZID=Europe/Madrid:20270508T200000
 SUMMARY:🦁🏀 Río Breogán - MoraBanc Andorra
@@ -1124,23 +1002,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:🦁🏀 Río Breogán - MoraBanc Andorra\\nÚltimos enfrentami
- entos (Liga Endesa):\\n11/04/2026 | Liga Endesa 2025-26 J? | 🦁🏀 Río
-  Breogán 97-99 MoraBanc Andorra | https://acb.com/es/liga/calendario?temp
- orada=90\\n17/01/2026 | Liga Endesa 2025-26 J? | MoraBanc Andorra 101-104 
- 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada=90\\
- n08/03/2025 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 94-74 MoraBa
- nc Andorra | https://acb.com/es/liga/calendario?temporada=89\\n04/01/2025 
- | Liga Endesa 2024-25 J? | MoraBanc Andorra 93-101 🦁🏀 Río Breogán 
- | https://acb.com/es/liga/calendario?temporada=89\\n10/05/2024 | Liga Ende
- sa 2023-24 J? | 🦁🏀 Río Breogán 97-92 MoraBanc Andorra | https://ac
- b.com/es/liga/calendario?temporada=88\\n29/09/2023 | Liga Endesa 2023-24 J
- ? | MoraBanc Andorra 63-69 🦁🏀 Río Breogán | https://acb.com/es/lig
- a/calendario?temporada=88\\nCuriosidad: margen mínimo 2 pts (11/04/2026\,
-  2025-26\, 97-99\, https://acb.com/es/liga/calendario?temporada=90)\\nFuen
- te: https://acb.com/es/liga/calendario?temporada=91 | Sede: Pazo Provincia
- l dos Deportes de Lugo\, Avenida Filarmónica Lucense\, s/n\, 27002 Lugo\,
-  España (https://deputacionlugo.gal/gl/infocontacto)
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nÚLTIMOS 6 ENFRENTAM
+ IENTOS\n11/04/2026 · 2025-26\nBreogán 97–99 Andorra\n\n17/01/2026 · 2
+ 025-26\nAndorra 101–104 Breogán\n\n08/03/2025 · 2024-25\nBreogán 94
+ –74 Andorra\n\n04/01/2025 · 2024-25\nAndorra 93–101 Breogán\n\n10/05
+ /2024 · 2023-24\nBreogán 97–92 Andorra\n\n29/09/2023 · 2023-24\nAndor
+ ra 63–69 Breogán\n\nSolo liga regular ACB.\n\nPARTIDO PARA RECORDAR\n11
+ /04/2026 · 2025-26\nBreogán 97–99 Andorra\nFue el más ajustado de est
+ a lista: 2 puntos de diferencia.\n\nFUENTES\nACB · 2025-26\nhttps://acb.c
+ om/es/liga/calendario?temporada=90\n\nACB · 2024-25\nhttps://acb.com/es/l
+ iga/calendario?temporada=89\n\nACB · 2023-24\nhttps://acb.com/es/liga/cal
+ endario?temporada=88\n\nCalendario actual\nhttps://acb.com/es/liga/calenda
+ rio?temporada=91\n\nInformación del pabellón\nhttps://deputacionlugo.gal
+ /gl/infocontacto
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -1150,9 +1024,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105667@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
-SEQUENCE:0
-X-CONTENT-HASH:02f3aac73331d9fd
+LAST-MODIFIED:20261002T191119Z
+SEQUENCE:1
+X-CONTENT-HASH:6a2642e70a3ccc06
 DTSTART;TZID=Europe/Madrid:20270516T120000
 DTEND;TZID=Europe/Madrid:20270516T140000
 SUMMARY:Leyma Coruña - 🦁🏀 Río Breogán
@@ -1160,17 +1034,16 @@ LOCATION:Coliseum\, Calle Francisco Pérez Carballo\, 2\, 15008 A Coruña\,
   España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:CONFIRMED
-DESCRIPTION:Leyma Coruña - 🦁🏀 Río Breogán\\nÚltimos enfrentamient
- os (Liga Endesa):\\n16/03/2025 | Liga Endesa 2024-25 J? | Leyma Coruña 98
- -106 🦁🏀 Río Breogán | https://acb.com/es/liga/calendario?temporada
- =89\\n12/01/2025 | Liga Endesa 2024-25 J? | 🦁🏀 Río Breogán 83-80 L
- eyma Coruña | https://acb.com/es/liga/calendario?temporada=89\\nCuriosida
- d: margen mínimo 3 pts (12/01/2025\, 2024-25\, 83-80\, https://acb.com/es
- /liga/calendario?temporada=89)\\nFuente: https://acb.com/es/liga/calendari
- o?temporada=91 | Sede: Coliseum\, Calle Francisco Pérez Carballo\, 2\, 15
- 008 A Coruña\, España (https://www.coruna.gal/web/gl/comunicate/director
- io-municipal/servizo-municipal/coliseum/entidad/1150819588065?argIdioma=es
- )
+DESCRIPTION:Liga Endesa · 2026-27\nPartido fuera de casa\n\nENFRENTAMIENTO
+ S ANTERIORES (2)\n16/03/2025 · 2024-25\nCoruña 98–106 Breogán\n\n12/0
+ 1/2025 · 2024-25\nBreogán 83–80 Coruña\n\nSolo liga regular ACB.\nSol
+ o hay 2 encuentros anteriores verificados en los datos consultados.\n\nPAR
+ TIDO PARA RECORDAR\n12/01/2025 · 2024-25\nBreogán 83–80 Coruña\nFue e
+ l más ajustado de esta lista: 3 puntos de diferencia.\n\nFUENTES\nACB · 
+ 2024-25\nhttps://acb.com/es/liga/calendario?temporada=89\n\nCalendario act
+ ual\nhttps://acb.com/es/liga/calendario?temporada=91\n\nInformación del p
+ abellón\nhttps://www.coruna.gal/web/gl/comunicate/directorio-municipal/se
+ rvizo-municipal/coliseum/entidad/1150819588065?argIdioma=es
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT30M
@@ -1180,7 +1053,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:105674@breogan-calendar
 DTSTAMP:20261002T172501Z
-LAST-MODIFIED:20261002T172501Z
+LAST-MODIFIED:20261002T191119Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
@@ -1189,5 +1062,19 @@ LOCATION:Pazo Provincial dos Deportes de Lugo\, Avenida Filarmónica Lucens
  e\, s/n\, 27002 Lugo\, España
 URL:https://acb.com/es/liga/calendario?temporada=91
 STATUS:TENTATIVE
+DESCRIPTION:Liga Endesa · 2026-27\nPartido en casa\n\nHORARIO PENDIENTE\nL
+ a fecha es provisional. Consulta el calendario oficial antes de organizar 
+ el viaje.\n\nÚLTIMOS 6 ENFRENTAMIENTOS\n03/05/2026 · 2025-26\nBaskonia 1
+ 12–84 Breogán\n\n29/12/2025 · 2025-26\nBreogán 100–103 Baskonia\n\n
+ 30/03/2025 · 2024-25\nBreogán 88–82 Baskonia\n\n19/01/2025 · 2024-25\
+ nBaskonia 97–91 Breogán\n\n14/04/2024 · 2023-24\nBaskonia 76–74 Breo
+ gán\n\n24/09/2023 · 2023-24\nBreogán 79–88 Baskonia\n\nSolo liga regu
+ lar ACB.\n\nPARTIDO PARA RECORDAR\n14/04/2024 · 2023-24\nBaskonia 76–74
+  Breogán\nFue el más ajustado de esta lista: 2 puntos de diferencia.\n\n
+ FUENTES\nACB · 2025-26\nhttps://acb.com/es/liga/calendario?temporada=90\n
+ \nACB · 2024-25\nhttps://acb.com/es/liga/calendario?temporada=89\n\nACB 
+ · 2023-24\nhttps://acb.com/es/liga/calendario?temporada=88\n\nCalendario 
+ actual\nhttps://acb.com/es/liga/calendario?temporada=91\n\nInformación de
+ l pabellón\nhttps://deputacionlugo.gal/gl/infocontacto
 END:VEVENT
 END:VCALENDAR

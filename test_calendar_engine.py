@@ -38,7 +38,8 @@ class CalendarTests(unittest.TestCase):
                       'CALSCALE:GREGORIAN', 'X-WR-CALNAME:🦁🏀 Río Breogán ·2026-27',
                       'X-WR-TIMEZONE:Europe/Madrid', 'REFRESH-INTERVAL;VALUE=DURATION:P1D',
                       'X-PUBLISHED-TTL:P1D', 'SUMMARY:🦁🏀 Río Breogán - Rival',
-                      'DTSTART:20261004T170000Z', 'DTEND:20261004T190000Z',
+                      'DTSTART;TZID=Europe/Madrid:20261004T190000',
+                      'DTEND;TZID=Europe/Madrid:20261004T210000',
                       'DTSTAMP:20261002T120000Z', 'LAST-MODIFIED:20261002T120000Z',
                       'SEQUENCE:0', 'BEGIN:VALARM', 'ACTION:DISPLAY', 'TRIGGER:-PT30M',
                       'LOCATION:Pazo dos Deportes\\, Lugo\\, España',
@@ -93,7 +94,8 @@ class CalendarTests(unittest.TestCase):
         self.assertEqual(summary['venues_ok'], True)
         self.assertEqual(summary['history_count_ok'], True)
 
-    def test_description_history_last_six(self):
+    def test_description_history_readable_format(self):
+        """New readable format: line breaks, no J?, compact sources."""
         data = fixture()
         data['history'] = [
             {'id': 1, 'date': '2026-01-10T17:00:00Z', 'home': 'Río Breogán', 'away': 'Rival',
@@ -106,12 +108,19 @@ class CalendarTests(unittest.TestCase):
         raw = self.engine().render(data, now=NOW)
         text = '\n'.join(lines(raw))
         self.assertIn('DESCRIPTION:', text)
-        self.assertIn('2026-01-10', text)
-        self.assertIn('2025-03-15', text)
-        self.assertIn('80-75', text)
-        self.assertIn('70-85', text)
-        self.assertIn('Liga Endesa 2025-26', text)
-        self.assertIn('Liga Endesa 2024-25', text)
+        self.assertIn('10/01/2026', text)  # DD/MM/YYYY format
+        self.assertIn('15/03/2025', text)
+        self.assertIn('80–75', text)  # en dash
+        self.assertIn('70–85', text)
+        self.assertIn('2025-26', text)
+        self.assertIn('2024-25', text)
+        self.assertNotIn('J?', text)
+        self.assertIn('ENFRENTAMIENTOS ANTERIORES', text)
+        self.assertIn('PARTIDO PARA RECORDAR', text)
+        self.assertIn('FUENTES', text)
+        # Each season URL cited once
+        self.assertEqual(text.count('https://acb.example/history/1'), 1)
+        self.assertEqual(text.count('https://acb.example/history/2'), 1)
 
     def test_uid_stable_based_on_match_id(self):
         raw = self.engine().render(fixture(), previous_ics=None, now=NOW)
@@ -143,8 +152,9 @@ class CalendarTests(unittest.TestCase):
 
     def test_30min_display_alarm_timed_only(self):
         raw = self.engine().render(fixture(), previous_ics=None, now=NOW)
-        self.assertIn('BEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Recordatorio: ', '\n'.join(lines(raw)))
-        self.assertIn('TRIGGER:-PT30M\r\nEND:VALARM', '\n'.join(lines(raw)))
+        text = '\n'.join(lines(raw))
+        self.assertIn('BEGIN:VALARM\nACTION:DISPLAY\nTRIGGER:-PT30M', text)
+        self.assertIn('DESCRIPTION:Recordatorio: 🦁🏀 Río Breogán - Rival', text)
 
     def test_no_alarm_for_unscheduled(self):
         data = fixture()
@@ -165,14 +175,19 @@ class CalendarTests(unittest.TestCase):
         self.assertIn('DESCRIPTION:', text)
         self.assertIn('26/04/2026', text)
         self.assertIn('2025-26', text)
-        self.assertIn('93-86', text)
+        self.assertIn('93–86', text)  # en dash
         self.assertIn('temporada=90', text)
+        self.assertIn('ENFRENTAMIENTOS ANTERIORES', text)
+        self.assertIn('PARTIDO PARA RECORDAR', text)
+        self.assertIn('FUENTES', text)
 
     def test_history_scarcity_honest(self):
         data = fixture()
         data['history'] = {9: []}
         raw = self.engine().render(data, previous_ics=None, now=NOW)
-        self.assertIn('Solo existen 0 enfrentamientos', '\n'.join(lines(raw)))
+        text = '\n'.join(lines(raw))
+        self.assertIn('ENFRENTAMIENTOS ANTERIORES (0)', text)
+        self.assertIn('Solo hay 0 encuentros anteriores verificados', text)
 
     def test_curiosity_from_real_history(self):
         data = fixture()
@@ -184,9 +199,9 @@ class CalendarTests(unittest.TestCase):
                                 'source': 'https://acb.com/temporada=90'}]}
         raw = self.engine().render(data, previous_ics=None, now=NOW)
         text = '\n'.join(lines(raw))
-        self.assertIn('Curiosidad', text)
+        self.assertIn('PARTIDO PARA RECORDAR', text)
         self.assertIn('26/04/2026', text)
-        self.assertIn('7', text)  # margin 93-86 = 7
+        self.assertIn('7 puntos de diferencia', text)
 
     def test_cutoff_strictly_before_fixture(self):
         data = fixture()
@@ -200,8 +215,8 @@ class CalendarTests(unittest.TestCase):
         ]}
         raw = self.engine().render(data, previous_ics=None, now=NOW)
         text = '\n'.join(lines(raw))
-        self.assertNotIn('04/10/2026', text)
-        self.assertIn('03/10/2026', text)
+        self.assertNotIn('04/10/2026', text)  # same day excluded
+        self.assertIn('03/10/2026', text)      # day before included
 
     def test_utf8_crlf_folding_75_octets(self):
         long_venue = {'name': 'X' * 80, 'address': 'Y' * 80, 'source': 'z'}
@@ -232,13 +247,15 @@ class CalendarTests(unittest.TestCase):
     def test_validator_counts_and_no_duplicates(self):
         engine = self.engine()
         ics = engine.render(fixture(), previous_ics=None, now=NOW)
+        text = '\n'.join(lines(ics))
         summary = engine.validate(fixture(), ics)
         self.assertEqual(summary['events'], 1)
         self.assertEqual(summary['duplicate_uids'], 0)
         self.assertEqual(summary['lines_over_75'], 0)
         self.assertTrue(summary['emoji_present'])
         self.assertTrue(summary['venues_present'])
-        self.assertTrue(summary['history_present'])
+        # New format uses "ENFRENTAMIENTOS ANTERIORES" instead of "Últimos enfrentamientos"
+        self.assertTrue(any('ENFRENTAMIENTOS' in l for l in lines(ics)))
 
     def test_validator_rejects_missing_venues(self):
         engine = self.engine()

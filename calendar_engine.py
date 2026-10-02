@@ -3,6 +3,12 @@ from datetime import datetime, timedelta, timezone
 import hashlib
 import re
 
+try:
+    from event_notes import build_notes
+except ImportError:
+    def build_notes(data, match, venue):
+        return 'Notas no disponibles'
+
 
 def _escape(value):
     return str(value).replace('\\', '\\\\').replace('\n', '\\n').replace(';', '\\;').replace(',', '\\,')
@@ -139,7 +145,8 @@ def render(data, previous_ics=None, now=None):
                        f'DTEND;VALUE=DATE:{next_day.strftime("%Y%m%d")}',
                        'SUMMARY:' + _escape('[Horario pendiente] ' + title),
                        'LOCATION:' + _escape(venue['name'] + ', ' + venue['address']),
-                       'URL:' + match['source'], 'STATUS:TENTATIVE', 'END:VEVENT']
+                       'URL:' + match['source'], 'STATUS:TENTATIVE',
+                       'DESCRIPTION:' + _escape(build_notes(data, match, venue)), 'END:VEVENT']
         else:
             if match.get('status') == 'FINALIZED':
                 title += ' (%d-%d)' % (match.get('homeScore', 0), match.get('awayScore', 0))
@@ -165,55 +172,8 @@ def render(data, previous_ics=None, now=None):
             history.sort(key=lambda x: _date(x['date']), reverse=True)
             history = history[:6]
 
-            desc_parts = [title]
-            if match.get('unscheduled'):
-                desc_parts.append('[Horario pendiente - hora y fecha tentativas]')
-            if history:
-                desc_parts.append('Últimos enfrentamientos (Liga Endesa):')
-                for h in history:
-                    h_date = _date(h['date'])
-                    season_str = '%d-%02d' % (h['season'], (h['season'] + 1) % 100)
-                    # Support both homeClubId/awayClubId and home/away string formats
-                    home_cid = h.get('homeClubId', 25 if h.get('home') == 'Río Breogán' else 0)
-                    away_cid = h.get('awayClubId', 25 if h.get('away') == 'Río Breogán' else 0)
-                    home_team = '🦁🏀 Río Breogán' if home_cid == 25 else h.get('home', 'Rival')
-                    away_team = '🦁🏀 Río Breogán' if away_cid == 25 else h.get('away', 'Rival')
-                    competition = h.get('competition', 'Liga Endesa')
-                    round_num = h.get('round', '?')
-                    # Ensure numeric types
-                    try:
-                        round_display = int(round_num)
-                    except (ValueError, TypeError):
-                        round_display = round_num
-                    home_score = int(h['homeScore']) if h['homeScore'] is not None else 0
-                    away_score = int(h['awayScore']) if h['awayScore'] is not None else 0
-                    if isinstance(round_display, int):
-                        desc_parts.append('%s | %s %s J%d | %s %d-%d %s | %s' % (
-                            h_date.strftime('%d/%m/%Y'), competition, season_str, round_display,
-                            home_team, home_score, away_score, away_team, h['source']))
-                    else:
-                        desc_parts.append('%s | %s %s J%s | %s %d-%d %s | %s' % (
-                            h_date.strftime('%d/%m/%Y'), competition, season_str, round_display,
-                            home_team, home_score, away_score, away_team, h['source']))
-            else:
-                desc_parts.append('Solo existen 0 enfrentamientos previos en Liga Endesa.')
-
-            # Curiosity: smallest margin
-            if history:
-                margins = []
-                for h in history:
-                    margin = abs(h['homeScore'] - h['awayScore'])
-                    h_date = _date(h['date'])
-                    season_str = '%d-%02d' % (h['season'], (h['season'] + 1) % 100)
-                    margins.append((margin, h_date.strftime('%d/%m/%Y'), season_str, h['homeScore'], h['awayScore'], h['source']))
-                if margins:
-                    margins.sort(key=lambda x: x[0])
-                    m = margins[0]
-                    desc_parts.append('Curiosidad: margen mínimo %d pts (%s, %s, %d-%d, %s)' % (m[0], m[1], m[2], m[3], m[4], m[5]))
-
-            desc_parts.append('Fuente: %s | Sede: %s, %s (%s)' % (
-                match['source'], venue['name'], venue['address'], venue['source']))
-            description = '\\n'.join(desc_parts)
+            # Use dedicated notes module for readable plain-text notes
+            description = build_notes(data, match, venue)
 
             # Use Europe/Madrid TZID for timed events
             madrid_start = _madrid_time(start_utc)
