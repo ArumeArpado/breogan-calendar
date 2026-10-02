@@ -1,0 +1,2834 @@
+{
+  "season": "2026-27",
+  "fetchedAt": "2026-10-02T17:25:01.234181Z",
+  "matches": [
+    {
+      "id": 105378,
+      "competition": "Liga Endesa",
+      "round": 1,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 8,
+        "name": "Asisa Joventut"
+      },
+      "start": "2026-09-27T10:00:00Z",
+      "unscheduled": false,
+      "status": "FINALIZED",
+      "homeScore": 110,
+      "awayScore": 104,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105386,
+      "competition": "Liga Endesa",
+      "round": 2,
+      "home": {
+        "clubId": 10,
+        "name": "Kids&Us Manresa"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2026-10-03T19:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105395,
+      "competition": "Liga Endesa",
+      "round": 3,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 591,
+        "name": "FIATC Girona"
+      },
+      "start": "2026-10-10T19:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105403,
+      "competition": "Liga Endesa",
+      "round": 4,
+      "home": {
+        "clubId": 22,
+        "name": "MoraBanc Andorra"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2026-10-17T17:30:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105418,
+      "competition": "Liga Endesa",
+      "round": 5,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 14,
+        "name": "Unicaja"
+      },
+      "start": "2026-10-25T17:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105424,
+      "competition": "Liga Endesa",
+      "round": 6,
+      "home": {
+        "clubId": 57,
+        "name": "Monbus Obradoiro"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2026-11-01T11:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105432,
+      "competition": "Liga Endesa",
+      "round": 7,
+      "home": {
+        "clubId": 2,
+        "name": "Barça"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2026-11-08T11:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105438,
+      "competition": "Liga Endesa",
+      "round": 8,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 549,
+        "name": "Recoletas Salud San Pablo Burgos"
+      },
+      "start": "2026-11-14T17:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105453,
+      "competition": "Liga Endesa",
+      "round": 9,
+      "home": {
+        "clubId": 13,
+        "name": "Valencia Basket"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2026-11-22T16:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105458,
+      "competition": "Liga Endesa",
+      "round": 10,
+      "home": {
+        "clubId": 16,
+        "name": "Casademont Zaragoza"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2026-12-05T20:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105470,
+      "competition": "Liga Endesa",
+      "round": 11,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 4,
+        "name": "Surne Bilbao"
+      },
+      "start": "2026-12-10T19:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105475,
+      "competition": "Liga Endesa",
+      "round": 12,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 9,
+        "name": "Real Madrid"
+      },
+      "start": "2026-12-12T20:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105485,
+      "competition": "Liga Endesa",
+      "round": 13,
+      "home": {
+        "clubId": 658,
+        "name": "iLERNA Lleida"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2026-12-19T20:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105493,
+      "competition": "Liga Endesa",
+      "round": 14,
+      "home": {
+        "clubId": 3,
+        "name": "Kosner Baskonia"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2026-12-27T11:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105502,
+      "competition": "Liga Endesa",
+      "round": 15,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 657,
+        "name": "Leyma Coruña"
+      },
+      "start": "2026-12-30T17:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105513,
+      "competition": "Liga Endesa",
+      "round": 16,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 12,
+        "name": "UCAM Murcia"
+      },
+      "start": "2027-01-03T11:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105526,
+      "competition": "Liga Endesa",
+      "round": 17,
+      "home": {
+        "clubId": 28,
+        "name": "La Laguna Tenerife"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2027-01-10T18:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105532,
+      "competition": "Liga Endesa",
+      "round": 18,
+      "home": {
+        "clubId": 591,
+        "name": "FIATC Girona"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2027-01-17T11:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105544,
+      "competition": "Liga Endesa",
+      "round": 19,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 13,
+        "name": "Valencia Basket"
+      },
+      "start": "2027-01-24T17:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105551,
+      "competition": "Liga Endesa",
+      "round": 20,
+      "home": {
+        "clubId": 14,
+        "name": "Unicaja"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2027-01-31T11:30:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105558,
+      "competition": "Liga Endesa",
+      "round": 21,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 658,
+        "name": "iLERNA Lleida"
+      },
+      "start": "2027-02-07T11:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105567,
+      "competition": "Liga Endesa",
+      "round": 22,
+      "home": {
+        "clubId": 8,
+        "name": "Asisa Joventut"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2027-02-14T11:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105574,
+      "competition": "Liga Endesa",
+      "round": 23,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 10,
+        "name": "Kids&Us Manresa"
+      },
+      "start": "2027-03-06T18:30:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105588,
+      "competition": "Liga Endesa",
+      "round": 24,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 2,
+        "name": "Barça"
+      },
+      "start": "2027-03-14T16:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105594,
+      "competition": "Liga Endesa",
+      "round": 25,
+      "home": {
+        "clubId": 4,
+        "name": "Surne Bilbao"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2027-03-21T11:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105601,
+      "competition": "Liga Endesa",
+      "round": 26,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 28,
+        "name": "La Laguna Tenerife"
+      },
+      "start": "2027-03-27T18:30:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105609,
+      "competition": "Liga Endesa",
+      "round": 27,
+      "home": {
+        "clubId": 549,
+        "name": "Recoletas Salud San Pablo Burgos"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2027-04-03T16:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105621,
+      "competition": "Liga Endesa",
+      "round": 28,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 16,
+        "name": "Casademont Zaragoza"
+      },
+      "start": "2027-04-11T10:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105632,
+      "competition": "Liga Endesa",
+      "round": 29,
+      "home": {
+        "clubId": 9,
+        "name": "Real Madrid"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2027-04-18T10:30:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105642,
+      "competition": "Liga Endesa",
+      "round": 30,
+      "home": {
+        "clubId": 12,
+        "name": "UCAM Murcia"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2027-04-25T15:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105649,
+      "competition": "Liga Endesa",
+      "round": 31,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 57,
+        "name": "Monbus Obradoiro"
+      },
+      "start": "2027-05-02T10:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105654,
+      "competition": "Liga Endesa",
+      "round": 32,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 22,
+        "name": "MoraBanc Andorra"
+      },
+      "start": "2027-05-08T16:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105667,
+      "competition": "Liga Endesa",
+      "round": 33,
+      "home": {
+        "clubId": 657,
+        "name": "Leyma Coruña"
+      },
+      "away": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "start": "2027-05-16T10:00:00Z",
+      "unscheduled": false,
+      "status": "NOT_STARTED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    },
+    {
+      "id": 105674,
+      "competition": "Liga Endesa",
+      "round": 34,
+      "home": {
+        "clubId": 25,
+        "name": "Río Breogán"
+      },
+      "away": {
+        "clubId": 3,
+        "name": "Kosner Baskonia"
+      },
+      "start": "2027-05-21T12:00:00Z",
+      "unscheduled": true,
+      "status": "UNSCHEDULED",
+      "homeScore": 0,
+      "awayScore": 0,
+      "source": "https://acb.com/es/liga/calendario?temporada=91"
+    }
+  ],
+  "venues": {
+    "8": {
+      "name": "Palau Olímpic de Badalona",
+      "address": "Carrer de Ponent, 143-161, 08912 Badalona (Barcelona), España",
+      "source": "https://www.penya.com/es/inicio/contacto"
+    },
+    "2": {
+      "name": "Palau Blaugrana",
+      "address": "C/ Arístides Mallol, s/n, 08028 Barcelona, España",
+      "source": "https://www.fcbarcelona.es/es/club/instalaciones/palau-blaugrana/como-llegar"
+    },
+    "16": {
+      "name": "Pabellón Príncipe Felipe",
+      "address": "Avenida Cesáreo Alierta, 120, 50013 Zaragoza, España",
+      "source": "https://www.zaragoza.es/sede/servicio/equipamiento/942"
+    },
+    "591": {
+      "name": "Pavelló Municipal Girona - Fontajau",
+      "address": "Avinguda Josep Tarradellas i Joan, 22-24, 17007 Girona, España",
+      "source": "https://web.girona.cat/esports/instal-lacions/equipaments/pavellons"
+    },
+    "658": {
+      "name": "Espai Fruita Barris Nord",
+      "address": "Avinguda Prat de la Riba, 113, 25005 Lleida, España",
+      "source": "https://www.paeria.cat/ca/ciutat/directori/pavello-municipal-barris-nord"
+    },
+    "10": {
+      "name": "Pavelló Nou Congost",
+      "address": "Carretera de Manresa a Sant Joan, s/n, 08241 Manresa (Barcelona), España",
+      "source": "https://www.basquetmanresa.com/en/text-contact/"
+    },
+    "3": {
+      "name": "Fernando Buesa Arena",
+      "address": "Carretera Zurbano, s/n, 01013 Vitoria-Gasteiz (Álava), España",
+      "source": "https://buesa-arena.com/contacto/"
+    },
+    "28": {
+      "name": "Pabellón de Deportes de Tenerife Santiago Martín",
+      "address": "Calle Las Mercedes, s/n, 38108 La Laguna (Tenerife), España",
+      "source": "https://www.tenerife.es/oficinas-de-atencion-ciudadana"
+    },
+    "657": {
+      "name": "Coliseum",
+      "address": "Calle Francisco Pérez Carballo, 2, 15008 A Coruña, España",
+      "source": "https://www.coruna.gal/web/gl/comunicate/directorio-municipal/servizo-municipal/coliseum/entidad/1150819588065?argIdioma=es"
+    },
+    "57": {
+      "name": "Multiusos Fontes do Sar",
+      "address": "Rúa Diego Bernal, s/n, 15702 Santiago de Compostela (A Coruña), España",
+      "source": "https://www.obradoirocab.gal/es/pagina/ver/1002-obradoiro-cab-sad.html"
+    },
+    "22": {
+      "name": "Pavelló Toni Martí",
+      "address": "Baixada del Molí, 31, AD500 Andorra la Vella, Andorra",
+      "source": "https://www.govern.ad/ca/ministeris-i-secretaries-d-estat/ministeri-de-cultura-joventut-i-esports/esport/esport-federat/entitats-esportives"
+    },
+    "9": {
+      "name": "Movistar Arena",
+      "address": "Avenida Felipe II, s/n, 28009 Madrid, España",
+      "source": "https://www.realmadrid.com/es-ES/el-club/movistar-arena"
+    },
+    "549": {
+      "name": "Coliseum Burgos",
+      "address": "Calle Chopera, s/n, 09006 Burgos, España",
+      "source": "https://www.aytoburgos.es/-/coliseum-burgos"
+    },
+    "25": {
+      "name": "Pazo Provincial dos Deportes de Lugo",
+      "address": "Avenida Filarmónica Lucense, s/n, 27002 Lugo, España",
+      "source": "https://deputacionlugo.gal/gl/infocontacto"
+    },
+    "4": {
+      "name": "Bilbao Arena",
+      "address": "Avenida Askatasuna, 13, 48003 Bilbao (Bizkaia), España",
+      "source": "https://opebilbaoekintza.bilbao.eus/contents/opebilbaoekintza/Avisos/445_0.pdf"
+    },
+    "12": {
+      "name": "Palacio de los Deportes de Murcia",
+      "address": "Avenida del Rocío, 7, 30007 Murcia, España",
+      "source": "https://www.ucamdeportes.com/ucamcb/el-club/contacto"
+    },
+    "14": {
+      "name": "Palacio de Deportes José María Martín Carpena",
+      "address": "Avenida Miguel Mérida Nicolich, 2, 29004 Málaga, España",
+      "source": "https://www.unicajabaloncesto.com/contacto"
+    },
+    "13": {
+      "name": "Roig Arena",
+      "address": "C/ Bomber Ramón Duart, 12, Quatre Carreres, 46013 Valencia, España",
+      "source": "https://www.roigarena.com/es/como-llegar/"
+    }
+  },
+  "history": {
+    "8": [
+      {
+        "id": 18132,
+        "date": "2018-10-24T18:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Divina Seguros Joventut",
+        "homeScore": 69,
+        "awayScore": 76,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18350,
+        "date": "2019-03-30T17:00:00Z",
+        "home": "Divina Seguros Joventut",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 81,
+        "awayScore": 88,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104079,
+        "date": "2024-10-19T16:00:00Z",
+        "home": "Joventut Badalona",
+        "away": "Río Breogán",
+        "homeScore": 70,
+        "awayScore": 76,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104306,
+        "date": "2025-04-26T17:30:00Z",
+        "home": "Río Breogán",
+        "away": "Joventut Badalona",
+        "homeScore": 65,
+        "awayScore": 82,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103736,
+        "date": "2023-11-11T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Joventut Badalona",
+        "homeScore": 85,
+        "awayScore": 77,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103570,
+        "date": "2024-03-02T19:45:00Z",
+        "home": "Joventut Badalona",
+        "away": "Río Breogán",
+        "homeScore": 78,
+        "awayScore": 70,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103331,
+        "date": "2022-10-08T18:45:00Z",
+        "home": "Joventut Badalona",
+        "away": "Río Breogán",
+        "homeScore": 85,
+        "awayScore": 66,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103167,
+        "date": "2023-04-01T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "Joventut Badalona",
+        "homeScore": 65,
+        "awayScore": 85,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104561,
+        "date": "2025-12-27T20:00:00Z",
+        "home": "Asisa Joventut",
+        "away": "Río Breogán",
+        "homeScore": 83,
+        "awayScore": 75,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104706,
+        "date": "2026-04-26T10:00:00Z",
+        "home": "Río Breogán",
+        "away": "Asisa Joventut",
+        "homeScore": 93,
+        "awayScore": 86,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 103008,
+        "date": "2022-01-16T11:30:00Z",
+        "home": "Río Breogán",
+        "away": "Joventut Badalona",
+        "homeScore": 87,
+        "awayScore": 90,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102873,
+        "date": "2022-03-04T19:00:00Z",
+        "home": "Joventut Badalona",
+        "away": "Río Breogán",
+        "homeScore": 96,
+        "awayScore": 87,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "28": [
+      {
+        "id": 18145,
+        "date": "2018-10-04T20:30:00Z",
+        "home": "Iberostar Tenerife",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 90,
+        "awayScore": 78,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18400,
+        "date": "2019-05-09T19:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Iberostar Tenerife",
+        "homeScore": 84,
+        "awayScore": 85,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104062,
+        "date": "2024-11-07T19:30:00Z",
+        "home": "Río Breogán",
+        "away": "La Laguna Tenerife",
+        "homeScore": 78,
+        "awayScore": 79,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104219,
+        "date": "2025-02-02T12:00:00Z",
+        "home": "La Laguna Tenerife",
+        "away": "Río Breogán",
+        "homeScore": 96,
+        "awayScore": 83,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103766,
+        "date": "2023-10-07T18:45:00Z",
+        "home": "La Laguna Tenerife",
+        "away": "Río Breogán",
+        "homeScore": 88,
+        "awayScore": 81,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103656,
+        "date": "2024-05-05T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "La Laguna Tenerife",
+        "homeScore": 76,
+        "awayScore": 54,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103312,
+        "date": "2022-11-26T18:30:00Z",
+        "home": "Río Breogán",
+        "away": "Lenovo Tenerife",
+        "homeScore": 61,
+        "awayScore": 86,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103282,
+        "date": "2023-04-23T11:00:00Z",
+        "home": "Lenovo Tenerife",
+        "away": "Río Breogán",
+        "homeScore": 85,
+        "awayScore": 67,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104541,
+        "date": "2025-12-13T18:00:00Z",
+        "home": "Río Breogán",
+        "away": "La Laguna Tenerife",
+        "homeScore": 96,
+        "awayScore": 108,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104632,
+        "date": "2026-02-14T19:00:00Z",
+        "home": "La Laguna Tenerife",
+        "away": "Río Breogán",
+        "homeScore": 90,
+        "awayScore": 81,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102928,
+        "date": "2021-09-18T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "Lenovo Tenerife",
+        "homeScore": 92,
+        "awayScore": 73,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102854,
+        "date": "2022-04-09T18:45:00Z",
+        "home": "Lenovo Tenerife",
+        "away": "Río Breogán",
+        "homeScore": 96,
+        "awayScore": 78,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "5": [
+      {
+        "id": 18149,
+        "date": "2018-10-07T12:00:00Z",
+        "home": "Herbalife Gran Canaria",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 96,
+        "awayScore": 72,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18414,
+        "date": "2019-05-12T17:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Herbalife Gran Canaria",
+        "homeScore": 77,
+        "awayScore": 92,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104138,
+        "date": "2024-12-08T12:00:00Z",
+        "home": "Dreamland Gran Canaria",
+        "away": "Río Breogán",
+        "homeScore": 73,
+        "awayScore": 82,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104346,
+        "date": "2025-05-25T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "Dreamland Gran Canaria",
+        "homeScore": 74,
+        "awayScore": 82,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103820,
+        "date": "2023-12-30T19:45:00Z",
+        "home": "Dreamland Gran Canaria",
+        "away": "Río Breogán",
+        "homeScore": 86,
+        "awayScore": 60,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103699,
+        "date": "2024-04-20T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "Dreamland Gran Canaria",
+        "homeScore": 70,
+        "awayScore": 77,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103341,
+        "date": "2022-10-16T10:30:00Z",
+        "home": "Río Breogán",
+        "away": "Dreamland Gran Canaria",
+        "homeScore": 53,
+        "awayScore": 71,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103262,
+        "date": "2023-04-15T18:45:00Z",
+        "home": "Dreamland Gran Canaria",
+        "away": "Río Breogán",
+        "homeScore": 77,
+        "awayScore": 66,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104505,
+        "date": "2025-11-08T18:00:00Z",
+        "home": "Río Breogán",
+        "away": "Dreamland Gran Canaria",
+        "homeScore": 81,
+        "awayScore": 92,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104662,
+        "date": "2026-03-22T12:00:00Z",
+        "home": "Dreamland Gran Canaria",
+        "away": "Río Breogán",
+        "homeScore": 75,
+        "awayScore": 83,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102896,
+        "date": "2021-11-06T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Gran Canaria",
+        "homeScore": 76,
+        "awayScore": 66,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102812,
+        "date": "2022-05-01T11:00:00Z",
+        "home": "Gran Canaria",
+        "away": "Río Breogán",
+        "homeScore": 84,
+        "awayScore": 86,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "6": [
+      {
+        "id": 18159,
+        "date": "2018-10-13T18:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Movistar Estudiantes",
+        "homeScore": 86,
+        "awayScore": 79,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18368,
+        "date": "2019-04-14T17:30:00Z",
+        "home": "Movistar Estudiantes",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 95,
+        "awayScore": 62,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      }
+    ],
+    "549": [
+      {
+        "id": 18171,
+        "date": "2018-10-20T16:00:00Z",
+        "home": "San Pablo Burgos",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 92,
+        "awayScore": 76,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18427,
+        "date": "2019-05-26T10:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "San Pablo Burgos",
+        "homeScore": 76,
+        "awayScore": 95,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104525,
+        "date": "2025-11-22T20:00:00Z",
+        "home": "Río Breogán",
+        "away": "Recoletas Salud San Pablo Burgos",
+        "homeScore": 105,
+        "awayScore": 78,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104699,
+        "date": "2026-04-19T15:00:00Z",
+        "home": "Recoletas Salud San Pablo Burgos",
+        "away": "Río Breogán",
+        "homeScore": 94,
+        "awayScore": 99,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102918,
+        "date": "2021-09-23T19:30:00Z",
+        "home": "Hereda San Pablo Burgos",
+        "away": "Río Breogán",
+        "homeScore": 62,
+        "awayScore": 87,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102844,
+        "date": "2022-04-03T10:30:00Z",
+        "home": "Río Breogán",
+        "away": "Hereda San Pablo Burgos",
+        "homeScore": 105,
+        "awayScore": 96,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "57": [
+      {
+        "id": 18178,
+        "date": "2018-10-27T16:00:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Monbus Obradoiro",
+        "homeScore": 69,
+        "awayScore": 56,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18313,
+        "date": "2019-03-02T17:00:00Z",
+        "home": "Monbus Obradoiro",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 75,
+        "awayScore": 73,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 103808,
+        "date": "2023-12-23T19:45:00Z",
+        "home": "Río Breogán",
+        "away": "Monbus Obradoiro",
+        "homeScore": 88,
+        "awayScore": 90,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103636,
+        "date": "2024-03-23T19:45:00Z",
+        "home": "Monbus Obradoiro",
+        "away": "Río Breogán",
+        "homeScore": 83,
+        "awayScore": 72,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103370,
+        "date": "2023-01-07T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Monbus Obradoiro",
+        "homeScore": 64,
+        "awayScore": 59,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103140,
+        "date": "2023-03-25T17:00:00Z",
+        "home": "Monbus Obradoiro",
+        "away": "Río Breogán",
+        "homeScore": 67,
+        "awayScore": 74,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 102980,
+        "date": "2022-01-23T19:00:00Z",
+        "home": "Monbus Obradoiro",
+        "away": "Río Breogán",
+        "homeScore": 100,
+        "awayScore": 83,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102742,
+        "date": "2022-03-26T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Monbus Obradoiro",
+        "homeScore": 80,
+        "awayScore": 78,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "12": [
+      {
+        "id": 18189,
+        "date": "2018-11-03T17:00:00Z",
+        "home": "UCAM Murcia CB",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 76,
+        "awayScore": 64,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18304,
+        "date": "2019-02-10T16:00:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "UCAM Murcia CB",
+        "homeScore": 77,
+        "awayScore": 73,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104115,
+        "date": "2024-11-16T17:00:00Z",
+        "home": "UCAM Murcia",
+        "away": "Río Breogán",
+        "homeScore": 79,
+        "awayScore": 63,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104262,
+        "date": "2025-03-22T19:45:00Z",
+        "home": "Río Breogán",
+        "away": "UCAM Murcia",
+        "homeScore": 70,
+        "awayScore": 86,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103801,
+        "date": "2023-12-17T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "UCAM Murcia",
+        "homeScore": 74,
+        "awayScore": 83,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103790,
+        "date": "2024-05-12T16:30:00Z",
+        "home": "UCAM Murcia",
+        "away": "Río Breogán",
+        "homeScore": 68,
+        "awayScore": 61,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103354,
+        "date": "2022-09-29T19:30:00Z",
+        "home": "UCAM Murcia",
+        "away": "Río Breogán",
+        "homeScore": 70,
+        "awayScore": 84,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103225,
+        "date": "2023-05-07T10:30:00Z",
+        "home": "Río Breogán",
+        "away": "UCAM Murcia",
+        "homeScore": 60,
+        "awayScore": 65,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104520,
+        "date": "2025-11-16T17:00:00Z",
+        "home": "UCAM Murcia",
+        "away": "Río Breogán",
+        "homeScore": 83,
+        "awayScore": 96,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104624,
+        "date": "2026-02-07T19:00:00Z",
+        "home": "Río Breogán",
+        "away": "UCAM Murcia",
+        "homeScore": 95,
+        "awayScore": 106,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102899,
+        "date": "2021-10-31T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "UCAM Murcia",
+        "homeScore": 94,
+        "awayScore": 89,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102793,
+        "date": "2022-03-23T19:30:00Z",
+        "home": "UCAM Murcia",
+        "away": "Río Breogán",
+        "homeScore": 91,
+        "awayScore": 72,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "14": [
+      {
+        "id": 18192,
+        "date": "2018-11-11T11:30:00Z",
+        "home": "Unicaja",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 78,
+        "awayScore": 72,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18376,
+        "date": "2019-04-21T17:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Unicaja",
+        "homeScore": 83,
+        "awayScore": 75,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104163,
+        "date": "2024-12-28T17:00:00Z",
+        "home": "Unicaja",
+        "away": "Río Breogán",
+        "homeScore": 86,
+        "awayScore": 77,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104224,
+        "date": "2025-02-08T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Unicaja",
+        "homeScore": 81,
+        "awayScore": 79,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103716,
+        "date": "2023-10-28T16:30:00Z",
+        "home": "Unicaja",
+        "away": "Río Breogán",
+        "homeScore": 87,
+        "awayScore": 70,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103563,
+        "date": "2024-03-09T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Unicaja",
+        "homeScore": 65,
+        "awayScore": 76,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103388,
+        "date": "2023-01-14T17:00:00Z",
+        "home": "Unicaja",
+        "away": "Río Breogán",
+        "homeScore": 100,
+        "awayScore": 66,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103288,
+        "date": "2023-04-20T18:30:00Z",
+        "home": "Río Breogán",
+        "away": "Unicaja",
+        "homeScore": 74,
+        "awayScore": 90,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104576,
+        "date": "2026-01-03T20:00:00Z",
+        "home": "Río Breogán",
+        "away": "Unicaja",
+        "homeScore": 98,
+        "awayScore": 82,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104747,
+        "date": "2026-05-23T16:00:00Z",
+        "home": "Unicaja",
+        "away": "Río Breogán",
+        "homeScore": 101,
+        "awayScore": 83,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102912,
+        "date": "2021-10-09T16:00:00Z",
+        "home": "Unicaja",
+        "away": "Río Breogán",
+        "homeScore": 72,
+        "awayScore": 64,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102818,
+        "date": "2022-05-14T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "Unicaja",
+        "homeScore": 93,
+        "awayScore": 84,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "16": [
+      {
+        "id": 18202,
+        "date": "2018-11-18T16:00:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Tecnyconta Zaragoza",
+        "homeScore": 82,
+        "awayScore": 86,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18295,
+        "date": "2019-02-02T17:00:00Z",
+        "home": "Tecnyconta Zaragoza",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 83,
+        "awayScore": 69,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104098,
+        "date": "2024-11-02T19:45:00Z",
+        "home": "Casademont Zaragoza",
+        "away": "Río Breogán",
+        "homeScore": 111,
+        "awayScore": 53,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104302,
+        "date": "2025-04-20T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "Casademont Zaragoza",
+        "homeScore": 90,
+        "awayScore": 85,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103847,
+        "date": "2023-11-26T11:30:00Z",
+        "home": "Río Breogán",
+        "away": "Casademont Zaragoza",
+        "homeScore": 82,
+        "awayScore": 77,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103628,
+        "date": "2024-02-03T17:00:00Z",
+        "home": "Casademont Zaragoza",
+        "away": "Río Breogán",
+        "homeScore": 63,
+        "awayScore": 61,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103376,
+        "date": "2023-01-04T18:00:00Z",
+        "home": "Casademont Zaragoza",
+        "away": "Río Breogán",
+        "homeScore": 88,
+        "awayScore": 90,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103145,
+        "date": "2023-03-19T11:30:00Z",
+        "home": "Río Breogán",
+        "away": "Casademont Zaragoza",
+        "homeScore": 71,
+        "awayScore": 87,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104479,
+        "date": "2025-10-18T19:00:00Z",
+        "home": "Casademont Zaragoza",
+        "away": "Río Breogán",
+        "homeScore": 84,
+        "awayScore": 88,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104761,
+        "date": "2026-05-29T18:30:00Z",
+        "home": "Río Breogán",
+        "away": "Casademont Zaragoza",
+        "homeScore": 94,
+        "awayScore": 95,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102876,
+        "date": "2021-10-23T16:00:00Z",
+        "home": "Casademont Zaragoza",
+        "away": "Río Breogán",
+        "homeScore": 79,
+        "awayScore": 75,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102857,
+        "date": "2022-04-23T18:45:00Z",
+        "home": "Río Breogán",
+        "away": "Casademont Zaragoza",
+        "homeScore": 82,
+        "awayScore": 85,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "10": [
+      {
+        "id": 18215,
+        "date": "2018-11-25T11:30:00Z",
+        "home": "BAXI Manresa",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 72,
+        "awayScore": 63,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18284,
+        "date": "2019-01-26T19:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "BAXI Manresa",
+        "homeScore": 71,
+        "awayScore": 80,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104172,
+        "date": "2025-01-02T18:00:00Z",
+        "home": "Río Breogán",
+        "away": "BAXI Manresa",
+        "homeScore": 79,
+        "awayScore": 88,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104315,
+        "date": "2025-05-03T18:45:00Z",
+        "home": "BAXI Manresa",
+        "away": "Río Breogán",
+        "homeScore": 93,
+        "awayScore": 104,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103758,
+        "date": "2023-10-01T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "BAXI Manresa",
+        "homeScore": 85,
+        "awayScore": 89,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103619,
+        "date": "2024-01-27T19:45:00Z",
+        "home": "BAXI Manresa",
+        "away": "Río Breogán",
+        "homeScore": 83,
+        "awayScore": 68,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103301,
+        "date": "2022-10-29T16:00:00Z",
+        "home": "BAXI Manresa",
+        "away": "Río Breogán",
+        "homeScore": 70,
+        "awayScore": 106,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103246,
+        "date": "2023-05-14T10:30:00Z",
+        "home": "Río Breogán",
+        "away": "BAXI Manresa",
+        "homeScore": 81,
+        "awayScore": 82,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104588,
+        "date": "2026-01-10T20:00:00Z",
+        "home": "Kids&Us Manresa",
+        "away": "Río Breogán",
+        "homeScore": 104,
+        "awayScore": 99,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104666,
+        "date": "2026-03-28T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Kids&Us Manresa",
+        "homeScore": 91,
+        "awayScore": 78,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102996,
+        "date": "2021-11-14T19:00:00Z",
+        "home": "BAXI Manresa",
+        "away": "Río Breogán",
+        "homeScore": 86,
+        "awayScore": 75,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102763,
+        "date": "2022-04-14T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "BAXI Manresa",
+        "homeScore": 98,
+        "awayScore": 94,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "3": [
+      {
+        "id": 18220,
+        "date": "2018-12-09T16:00:00Z",
+        "home": "Kirolbet Baskonia",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 100,
+        "awayScore": 78,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18323,
+        "date": "2019-03-10T16:00:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Kirolbet Baskonia",
+        "homeScore": 72,
+        "awayScore": 90,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104203,
+        "date": "2025-01-19T16:00:00Z",
+        "home": "Baskonia",
+        "away": "Río Breogán",
+        "homeScore": 97,
+        "awayScore": 91,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104275,
+        "date": "2025-03-30T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "Baskonia",
+        "homeScore": 88,
+        "awayScore": 82,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103781,
+        "date": "2023-09-24T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "Baskonia",
+        "homeScore": 79,
+        "awayScore": 88,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103705,
+        "date": "2024-04-14T10:30:00Z",
+        "home": "Baskonia",
+        "away": "Río Breogán",
+        "homeScore": 76,
+        "awayScore": 74,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103431,
+        "date": "2022-12-27T18:00:00Z",
+        "home": "Río Breogán",
+        "away": "Cazoo Baskonia",
+        "homeScore": 77,
+        "awayScore": 86,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103232,
+        "date": "2023-04-30T18:00:00Z",
+        "home": "Cazoo Baskonia",
+        "away": "Río Breogán",
+        "homeScore": 97,
+        "awayScore": 76,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104567,
+        "date": "2025-12-29T19:00:00Z",
+        "home": "Río Breogán",
+        "away": "Kosner Baskonia",
+        "homeScore": 100,
+        "awayScore": 103,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104714,
+        "date": "2026-05-03T16:00:00Z",
+        "home": "Kosner Baskonia",
+        "away": "Río Breogán",
+        "homeScore": 112,
+        "awayScore": 84,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102973,
+        "date": "2022-01-19T18:00:00Z",
+        "home": "Río Breogán",
+        "away": "Baskonia",
+        "homeScore": 89,
+        "awayScore": 83,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102744,
+        "date": "2022-03-20T19:00:00Z",
+        "home": "Baskonia",
+        "away": "Río Breogán",
+        "homeScore": 89,
+        "awayScore": 84,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "9": [
+      {
+        "id": 18232,
+        "date": "2018-12-16T16:00:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Real Madrid",
+        "homeScore": 84,
+        "awayScore": 71,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18380,
+        "date": "2019-04-27T16:00:00Z",
+        "home": "Real Madrid",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 94,
+        "awayScore": 89,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104147,
+        "date": "2024-12-15T11:30:00Z",
+        "home": "Real Madrid",
+        "away": "Río Breogán",
+        "homeScore": 106,
+        "awayScore": 69,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104330,
+        "date": "2025-05-11T16:30:00Z",
+        "home": "Río Breogán",
+        "away": "Real Madrid",
+        "homeScore": 69,
+        "awayScore": 79,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103859,
+        "date": "2023-12-03T11:30:00Z",
+        "home": "Real Madrid",
+        "away": "Río Breogán",
+        "homeScore": 91,
+        "awayScore": 58,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103573,
+        "date": "2024-02-11T11:30:00Z",
+        "home": "Río Breogán",
+        "away": "Real Madrid",
+        "homeScore": 73,
+        "awayScore": 80,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103291,
+        "date": "2023-01-22T16:30:00Z",
+        "home": "Real Madrid",
+        "away": "Río Breogán",
+        "homeScore": 91,
+        "awayScore": 73,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103213,
+        "date": "2023-04-08T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Real Madrid",
+        "homeScore": 96,
+        "awayScore": 72,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104604,
+        "date": "2026-01-24T18:00:00Z",
+        "home": "Río Breogán",
+        "away": "Real Madrid",
+        "homeScore": 85,
+        "awayScore": 103,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104726,
+        "date": "2026-05-10T15:00:00Z",
+        "home": "Real Madrid",
+        "away": "Río Breogán",
+        "homeScore": 97,
+        "awayScore": 101,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102879,
+        "date": "2021-10-17T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "Real Madrid",
+        "homeScore": 71,
+        "awayScore": 79,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102865,
+        "date": "2022-04-17T10:30:00Z",
+        "home": "Real Madrid",
+        "away": "Río Breogán",
+        "homeScore": 90,
+        "awayScore": 65,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "22": [
+      {
+        "id": 18243,
+        "date": "2018-12-22T19:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "MoraBanc Andorra",
+        "homeScore": 85,
+        "awayScore": 79,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18419,
+        "date": "2019-05-18T18:30:00Z",
+        "home": "MoraBanc Andorra",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 91,
+        "awayScore": 84,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104180,
+        "date": "2025-01-04T19:45:00Z",
+        "home": "MoraBanc Andorra",
+        "away": "Río Breogán",
+        "homeScore": 93,
+        "awayScore": 101,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104243,
+        "date": "2025-03-08T19:45:00Z",
+        "home": "Río Breogán",
+        "away": "MoraBanc Andorra",
+        "homeScore": 94,
+        "awayScore": 74,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103788,
+        "date": "2023-09-29T18:30:00Z",
+        "home": "MoraBanc Andorra",
+        "away": "Río Breogán",
+        "homeScore": 63,
+        "awayScore": 69,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103668,
+        "date": "2024-05-10T18:00:00Z",
+        "home": "Río Breogán",
+        "away": "MoraBanc Andorra",
+        "homeScore": 97,
+        "awayScore": 92,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 104595,
+        "date": "2026-01-17T18:00:00Z",
+        "home": "MoraBanc Andorra",
+        "away": "Río Breogán",
+        "homeScore": 101,
+        "awayScore": 104,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104685,
+        "date": "2026-04-11T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "MoraBanc Andorra",
+        "homeScore": 97,
+        "awayScore": 99,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102990,
+        "date": "2021-12-12T11:30:00Z",
+        "home": "Río Breogán",
+        "away": "MoraBanc Andorra",
+        "homeScore": 83,
+        "awayScore": 74,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102732,
+        "date": "2022-03-06T16:00:00Z",
+        "home": "MoraBanc Andorra",
+        "away": "Río Breogán",
+        "homeScore": 79,
+        "awayScore": 86,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "17": [
+      {
+        "id": 18253,
+        "date": "2018-12-30T18:30:00Z",
+        "home": "Montakit Fuenlabrada",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 95,
+        "awayScore": 98,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18338,
+        "date": "2019-03-24T11:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Montakit Fuenlabrada",
+        "homeScore": 92,
+        "awayScore": 96,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 103362,
+        "date": "2022-10-02T10:30:00Z",
+        "home": "Río Breogán",
+        "away": "Carplus Fuenlabrada",
+        "homeScore": 78,
+        "awayScore": 70,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103150,
+        "date": "2023-03-12T19:00:00Z",
+        "home": "Carplus Fuenlabrada",
+        "away": "Río Breogán",
+        "homeScore": 73,
+        "awayScore": 92,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 102958,
+        "date": "2021-12-27T18:00:00Z",
+        "home": "Río Breogán",
+        "away": "Baloncesto Fuenlabrada",
+        "homeScore": 97,
+        "awayScore": 89,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102817,
+        "date": "2022-05-10T17:00:00Z",
+        "home": "Baloncesto Fuenlabrada",
+        "away": "Río Breogán",
+        "homeScore": 88,
+        "awayScore": 65,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "7": [
+      {
+        "id": 18256,
+        "date": "2019-01-06T11:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Delteco GBC",
+        "homeScore": 83,
+        "awayScore": 71,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18333,
+        "date": "2019-03-16T17:00:00Z",
+        "home": "Delteco GBC",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 100,
+        "awayScore": 65,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      }
+    ],
+    "2": [
+      {
+        "id": 18266,
+        "date": "2019-01-13T19:30:00Z",
+        "home": "Barça Lassa",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 94,
+        "awayScore": 80,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18358,
+        "date": "2019-04-07T17:30:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Barça Lassa",
+        "homeScore": 75,
+        "awayScore": 92,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104114,
+        "date": "2024-11-10T17:30:00Z",
+        "home": "Río Breogán",
+        "away": "Barça",
+        "homeScore": 77,
+        "awayScore": 70,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104238,
+        "date": "2025-03-02T16:00:00Z",
+        "home": "Barça",
+        "away": "Río Breogán",
+        "homeScore": 102,
+        "awayScore": 79,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103739,
+        "date": "2023-11-05T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "Barça",
+        "homeScore": 63,
+        "awayScore": 79,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103588,
+        "date": "2024-03-17T11:30:00Z",
+        "home": "Barça",
+        "away": "Río Breogán",
+        "homeScore": 85,
+        "awayScore": 88,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103426,
+        "date": "2022-12-11T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "Barça",
+        "homeScore": 74,
+        "awayScore": 78,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103210,
+        "date": "2023-02-12T11:30:00Z",
+        "home": "Barça",
+        "away": "Río Breogán",
+        "homeScore": 82,
+        "awayScore": 54,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104487,
+        "date": "2025-10-25T17:00:00Z",
+        "home": "Barça",
+        "away": "Río Breogán",
+        "homeScore": 100,
+        "awayScore": 85,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104643,
+        "date": "2026-03-08T11:15:00Z",
+        "home": "Río Breogán",
+        "away": "Barça",
+        "homeScore": 78,
+        "awayScore": 109,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102931,
+        "date": "2021-09-25T16:00:00Z",
+        "home": "Barça",
+        "away": "Río Breogán",
+        "homeScore": 78,
+        "awayScore": 69,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102801,
+        "date": "2022-05-07T18:45:00Z",
+        "home": "Río Breogán",
+        "away": "Barça",
+        "homeScore": 72,
+        "awayScore": 74,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "13": [
+      {
+        "id": 18276,
+        "date": "2019-01-20T16:00:00Z",
+        "home": "Cafés Candelas Breogán",
+        "away": "Valencia Basket Club",
+        "homeScore": 65,
+        "awayScore": 77,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 18389,
+        "date": "2019-05-04T16:00:00Z",
+        "home": "Valencia Basket Club",
+        "away": "Cafés Candelas Breogán",
+        "homeScore": 83,
+        "awayScore": 82,
+        "season": 2018,
+        "source": "https://acb.com/es/liga/calendario?temporada=83"
+      },
+      {
+        "id": 104076,
+        "date": "2024-10-13T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "Valencia Basket",
+        "homeScore": 75,
+        "awayScore": 87,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104357,
+        "date": "2025-05-30T19:00:00Z",
+        "home": "Valencia Basket",
+        "away": "Río Breogán",
+        "homeScore": 108,
+        "awayScore": 61,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103727,
+        "date": "2023-10-15T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "Valencia Basket",
+        "homeScore": 59,
+        "awayScore": 61,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103611,
+        "date": "2024-01-14T16:00:00Z",
+        "home": "Valencia Basket",
+        "away": "Río Breogán",
+        "homeScore": 88,
+        "awayScore": 80,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103325,
+        "date": "2022-11-06T19:00:00Z",
+        "home": "Río Breogán",
+        "away": "Valencia Basket",
+        "homeScore": 83,
+        "awayScore": 88,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103367,
+        "date": "2023-05-24T18:30:00Z",
+        "home": "Valencia Basket",
+        "away": "Río Breogán",
+        "homeScore": 77,
+        "awayScore": 80,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104474,
+        "date": "2025-10-12T15:00:00Z",
+        "home": "Río Breogán",
+        "away": "Valencia Basket",
+        "homeScore": 90,
+        "awayScore": 113,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104682,
+        "date": "2026-04-05T16:00:00Z",
+        "home": "Valencia Basket",
+        "away": "Río Breogán",
+        "homeScore": 105,
+        "awayScore": 88,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 102959,
+        "date": "2021-12-19T19:00:00Z",
+        "home": "Valencia Basket",
+        "away": "Río Breogán",
+        "homeScore": 97,
+        "awayScore": 98,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102736,
+        "date": "2022-02-13T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "Valencia Basket",
+        "homeScore": 99,
+        "awayScore": 82,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "4": [
+      {
+        "id": 104059,
+        "date": "2024-09-29T15:00:00Z",
+        "home": "Surne Bilbao Basket",
+        "away": "Río Breogán",
+        "homeScore": 90,
+        "awayScore": 72,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104206,
+        "date": "2025-01-25T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Surne Bilbao Basket",
+        "homeScore": 76,
+        "awayScore": 71,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103854,
+        "date": "2023-12-09T17:00:00Z",
+        "home": "Surne Bilbao Basket",
+        "away": "Río Breogán",
+        "homeScore": 68,
+        "awayScore": 76,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103687,
+        "date": "2024-03-30T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Surne Bilbao Basket",
+        "homeScore": 68,
+        "awayScore": 80,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103329,
+        "date": "2022-10-22T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "Surne Bilbao Basket",
+        "homeScore": 86,
+        "awayScore": 70,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103219,
+        "date": "2023-05-10T17:00:00Z",
+        "home": "Surne Bilbao Basket",
+        "away": "Río Breogán",
+        "homeScore": 83,
+        "awayScore": 66,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104553,
+        "date": "2025-12-21T11:00:00Z",
+        "home": "Río Breogán",
+        "away": "Surne Bilbao",
+        "homeScore": 100,
+        "awayScore": 99,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104651,
+        "date": "2026-03-14T20:00:00Z",
+        "home": "Surne Bilbao",
+        "away": "Río Breogán",
+        "homeScore": 100,
+        "awayScore": 90,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 103015,
+        "date": "2021-12-16T19:00:00Z",
+        "home": "Surne Bilbao Basket",
+        "away": "Río Breogán",
+        "homeScore": 83,
+        "awayScore": 75,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102757,
+        "date": "2022-03-12T19:45:00Z",
+        "home": "Río Breogán",
+        "away": "Surne Bilbao Basket",
+        "homeScore": 86,
+        "awayScore": 94,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ],
+    "658": [
+      {
+        "id": 104095,
+        "date": "2024-10-27T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "Hiopos Lleida",
+        "homeScore": 77,
+        "awayScore": 81,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104278,
+        "date": "2025-04-05T16:00:00Z",
+        "home": "Hiopos Lleida",
+        "away": "Río Breogán",
+        "homeScore": 94,
+        "awayScore": 81,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104462,
+        "date": "2025-10-04T19:00:00Z",
+        "home": "Ilerna Lleida",
+        "away": "Río Breogán",
+        "homeScore": 87,
+        "awayScore": 68,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104730,
+        "date": "2026-05-13T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Ilerna Lleida",
+        "homeScore": 114,
+        "awayScore": 87,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      }
+    ],
+    "592": [
+      {
+        "id": 104125,
+        "date": "2024-11-30T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Coviran Granada",
+        "homeScore": 74,
+        "awayScore": 92,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104332,
+        "date": "2025-05-17T14:00:00Z",
+        "home": "Coviran Granada",
+        "away": "Río Breogán",
+        "homeScore": 91,
+        "awayScore": 82,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103813,
+        "date": "2024-01-07T11:30:00Z",
+        "home": "Río Breogán",
+        "away": "Coviran Granada",
+        "homeScore": 85,
+        "awayScore": 79,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103652,
+        "date": "2024-04-27T16:00:00Z",
+        "home": "Coviran Granada",
+        "away": "Río Breogán",
+        "homeScore": 84,
+        "awayScore": 85,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103314,
+        "date": "2022-11-20T19:00:00Z",
+        "home": "Coviran Granada",
+        "away": "Río Breogán",
+        "homeScore": 80,
+        "awayScore": 70,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103290,
+        "date": "2023-01-28T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Coviran Granada",
+        "homeScore": 99,
+        "awayScore": 67,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104498,
+        "date": "2025-11-01T20:00:00Z",
+        "home": "Río Breogán",
+        "away": "Coviran Granada",
+        "homeScore": 95,
+        "awayScore": 74,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104612,
+        "date": "2026-01-31T17:00:00Z",
+        "home": "Coviran Granada",
+        "away": "Río Breogán",
+        "homeScore": 64,
+        "awayScore": 83,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      }
+    ],
+    "591": [
+      {
+        "id": 104151,
+        "date": "2024-12-21T17:00:00Z",
+        "home": "Río Breogán",
+        "away": "Bàsquet Girona",
+        "homeScore": 77,
+        "awayScore": 74,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104286,
+        "date": "2025-04-12T16:00:00Z",
+        "home": "Bàsquet Girona",
+        "away": "Río Breogán",
+        "homeScore": 91,
+        "awayScore": 85,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 103840,
+        "date": "2023-11-18T19:45:00Z",
+        "home": "Bàsquet Girona",
+        "away": "Río Breogán",
+        "homeScore": 87,
+        "awayScore": 83,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103604,
+        "date": "2024-01-21T11:30:00Z",
+        "home": "Río Breogán",
+        "away": "Bàsquet Girona",
+        "homeScore": 93,
+        "awayScore": 75,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103415,
+        "date": "2022-12-04T11:30:00Z",
+        "home": "Bàsquet Girona",
+        "away": "Río Breogán",
+        "homeScore": 66,
+        "awayScore": 73,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103181,
+        "date": "2023-02-05T11:30:00Z",
+        "home": "Río Breogán",
+        "away": "Bàsquet Girona",
+        "homeScore": 92,
+        "awayScore": 70,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 104534,
+        "date": "2025-12-06T20:00:00Z",
+        "home": "FIATC Girona",
+        "away": "Río Breogán",
+        "homeScore": 103,
+        "awayScore": 80,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      },
+      {
+        "id": 104738,
+        "date": "2026-05-16T16:00:00Z",
+        "home": "Río Breogán",
+        "away": "FIATC Girona",
+        "homeScore": 95,
+        "awayScore": 76,
+        "season": 2025,
+        "source": "https://acb.com/es/liga/calendario?temporada=90"
+      }
+    ],
+    "657": [
+      {
+        "id": 104192,
+        "date": "2025-01-12T11:30:00Z",
+        "home": "Río Breogán",
+        "away": "Leyma Coruña",
+        "homeScore": 83,
+        "awayScore": 80,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      },
+      {
+        "id": 104255,
+        "date": "2025-03-16T11:30:00Z",
+        "home": "Leyma Coruña",
+        "away": "Río Breogán",
+        "homeScore": 98,
+        "awayScore": 106,
+        "season": 2024,
+        "source": "https://acb.com/es/liga/calendario?temporada=89"
+      }
+    ],
+    "624": [
+      {
+        "id": 103725,
+        "date": "2023-10-21T16:00:00Z",
+        "home": "Zunder Palencia",
+        "away": "Río Breogán",
+        "homeScore": 74,
+        "awayScore": 59,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      },
+      {
+        "id": 103678,
+        "date": "2024-04-06T17:30:00Z",
+        "home": "Río Breogán",
+        "away": "Zunder Palencia",
+        "homeScore": 73,
+        "awayScore": 65,
+        "season": 2023,
+        "source": "https://acb.com/es/liga/calendario?temporada=88"
+      }
+    ],
+    "15": [
+      {
+        "id": 103440,
+        "date": "2022-12-17T17:00:00Z",
+        "home": "Real Betis Baloncesto",
+        "away": "Río Breogán",
+        "homeScore": 84,
+        "awayScore": 89,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 103202,
+        "date": "2023-03-04T19:45:00Z",
+        "home": "Río Breogán",
+        "away": "Real Betis Baloncesto",
+        "homeScore": 114,
+        "awayScore": 115,
+        "season": 2022,
+        "source": "https://acb.com/es/liga/calendario?temporada=87"
+      },
+      {
+        "id": 102937,
+        "date": "2021-10-03T10:30:00Z",
+        "home": "Río Breogán",
+        "away": "Coosur Real Betis",
+        "homeScore": 97,
+        "awayScore": 65,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      },
+      {
+        "id": 102787,
+        "date": "2022-02-05T17:00:00Z",
+        "home": "Coosur Real Betis",
+        "away": "Río Breogán",
+        "homeScore": 84,
+        "awayScore": 81,
+        "season": 2021,
+        "source": "https://acb.com/es/liga/calendario?temporada=86"
+      }
+    ]
+  }
+}
