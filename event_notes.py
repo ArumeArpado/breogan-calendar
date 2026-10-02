@@ -50,14 +50,15 @@ def build_notes(data, match, venue):
     if match.get('unscheduled'):
         sections.append('HORARIO PENDIENTE\nLa fecha es provisional. Consulta el calendario oficial antes de organizar el viaje.')
     blocks = []
-    for h in recent:
-        blocks.append('%s · %s\n%s' % (date(h['date']).strftime('%d/%m/%Y'), season(h), result(h)))
+    for i, h in enumerate(recent, 1):
+        blocks.append('%d. %s · %s\n%s' % (i, date(h['date']).strftime('%d/%m/%Y'), season(h), result(h)))
         source('ACB · ' + season(h), h['source'])
     heading = 'ÚLTIMOS 6 ENFRENTAMIENTOS' if len(recent) == 6 else 'ENFRENTAMIENTOS ANTERIORES (%d)' % len(recent)
     intro = 'Solo liga regular ACB.'
     if len(recent) < 6:
         intro += '\nSolo hay %d encuentros anteriores verificados en los datos consultados.' % len(recent)
-    sections.append(heading + '\n' + '\n\n'.join(blocks) + '\n\n' + intro)
+    # Numbered games with clear visual separator
+    sections.append(heading + '\n' + '\n\n────────────\n\n'.join(blocks) + '\n\n' + intro)
     if recent:
         memorable = min(recent, key=lambda h: abs(h['homeScore'] - h['awayScore']))
         margin = abs(memorable['homeScore'] - memorable['awayScore'])
